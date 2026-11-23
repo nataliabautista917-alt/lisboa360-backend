@@ -1,0 +1,1935 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "250A03",
+        "NOMBRE": "Br. Santa Cecilia",
+        "VIA": "CL 132D",
+        "DIRECCION_": "CL 132D - KR 158",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132D - KR 158 (250A03)",
+        "PANEL": "CL 132D - KR 158",
+        "AUDIO": "Calle 132 D Carrera 158",
+        "LONGITUD": -74.12863572,
+        "LATITUD": 4.7406929600000005,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12863572399999,
+          4.740692954999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "139A03",
+        "NOMBRE": " Santa Rita de Suba",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 158B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 158B (139A03)",
+        "PANEL": "CL 138 - KR 158B",
+        "AUDIO": "Calle 138 Carrera 158 Be",
+        "LONGITUD": -74.12840408,
+        "LATITUD": 4.7443271,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12840407600004,
+          4.74432710100001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "504A03",
+        "NOMBRE": "Br. Lisboa",
+        "VIA": "CL 132D",
+        "DIRECCION_": "CL 132D - KR 152",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132D - KR 152 (504A03)",
+        "PANEL": "CL 132D - KR 152",
+        "AUDIO": "Calle 132 D Carrera 152",
+        "LONGITUD": -74.12310953,
+        "LATITUD": 4.74302231,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12310953400004,
+          4.743022306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "128A03",
+        "NOMBRE": "Br. Lisboa",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132 D - KR 151 A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 D - KR 151 A (128A03)",
+        "PANEL": "CL 132 D - KR 151 A",
+        "AUDIO": "Calle 132 D Carrera 151 A",
+        "LONGITUD": -74.12235932,
+        "LATITUD": 4.74322572,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12235931999999,
+          4.7432257159999835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "258A03",
+        "NOMBRE": "IED La Toscana - Lisboa",
+        "VIA": "CL 132",
+        "DIRECCION_": "CL 132 - KR 145A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 - KR 145A (258A03)",
+        "PANEL": "CL 132 - KR 145A",
+        "AUDIO": "Calle 132 Carrera 145 A",
+        "LONGITUD": -74.117701,
+        "LATITUD": 4.743234,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11770100000001,
+          4.743233999999973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "279A03",
+        "NOMBRE": "Br. Miramar",
+        "VIA": "CL 132",
+        "DIRECCION_": "CL 132 - KR 132A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 - KR 132A (279A03)",
+        "PANEL": "CL 132 - KR 132A",
+        "AUDIO": "Calle 132 Carrera 132 A",
+        "LONGITUD": -74.11519414,
+        "LATITUD": 4.74136036,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11519414199995,
+          4.741360354999983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "094A03",
+        "NOMBRE": "CED La Toscana",
+        "VIA": "CL 132D",
+        "DIRECCION_": "CL 132D - KR 135",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "M",
+        "CONSOLA": "CL 132D - KR 135 (094A03)",
+        "PANEL": "CL 132D - KR 135",
+        "AUDIO": "Calle 132 D Carrera 135",
+        "LONGITUD": -74.11434615,
+        "LATITUD": 4.74358692,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11434614799998,
+          4.743586918000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "568A03",
+        "NOMBRE": "Br. La Estrella I",
+        "VIA": "KR 129",
+        "DIRECCION_": "KR 129 - CL 132A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 129 - CL 132A (568A03)",
+        "PANEL": "KR 129 - CL 132A",
+        "AUDIO": "Carrera 129 Calle 132 A",
+        "LONGITUD": -74.11349041,
+        "LATITUD": 4.74110081,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11349040899995,
+          4.741100811000024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "091A03",
+        "NOMBRE": "Br. La Toscana",
+        "VIA": "TV 127",
+        "DIRECCION_": "TV 127 - CL 132D",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "TV 127 - CL 132D (091A03)",
+        "PANEL": "TV 127 - CL 132D",
+        "AUDIO": "Transversal 127 Calle 132 D",
+        "LONGITUD": -74.11139736,
+        "LATITUD": 4.74308376,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11139736200005,
+          4.7430837549999865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "247A03",
+        "NOMBRE": "IED José María Velaz",
+        "VIA": "KR  131",
+        "DIRECCION_": "AK 131 - 134-44",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "AK 131 - 134-44 (247A03)",
+        "PANEL": "AK 131 - 134-44",
+        "AUDIO": "Avenida Carrera 131 134",
+        "LONGITUD": -74.11265374,
+        "LATITUD": 4.74472156,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11265373699996,
+          4.744721559000027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "076A03",
+        "NOMBRE": "IED Tibabuyes  Universal",
+        "VIA": "CL 139",
+        "DIRECCION_": "CL 139 - KR 129B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 139 - KR 129B (076A03)",
+        "PANEL": "CL 139 - KR 129B",
+        "AUDIO": "Calle 139 Carrera 129 Be",
+        "LONGITUD": -74.11193519,
+        "LATITUD": 4.74638645,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11193518699997,
+          4.746386449999989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "286A03",
+        "NOMBRE": "Br. San Carlos de Tibabuyes",
+        "VIA": "KR 139",
+        "DIRECCION_": "KR 139 - 142 Bis A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 139 - 142 Bis A (286A03)",
+        "PANEL": "KR 139 - 142 Bis A",
+        "AUDIO": "Carrera 139 142 Bis A",
+        "LONGITUD": -74.113559,
+        "LATITUD": 4.74732,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11355900000001,
+          4.747320000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "289A03",
+        "NOMBRE": "Sabana de Tibabuyes",
+        "VIA": "CL 142",
+        "DIRECCION_": "CL 142 - KR 130",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 142 - KR 130 (289A03)",
+        "PANEL": "CL 142 - KR 130",
+        "AUDIO": "Calle 142 Carrera 130",
+        "LONGITUD": -74.11200475,
+        "LATITUD": 4.74734738,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11200475099997,
+          4.747347375000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "138A03",
+        "NOMBRE": "Br. Villa Cindy",
+        "VIA": "KR  158 B",
+        "DIRECCION_": "KR 158 B - CL 136 D",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 158 B - CL 136 D  (138A03)",
+        "PANEL": "KR 158 B - CL 136 D",
+        "AUDIO": "Carrera 158 Be Calle 136 D",
+        "LONGITUD": -74.12911511,
+        "LATITUD": 4.74289437,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12911511499999,
+          4.742894368000009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "127A03",
+        "NOMBRE": "Hospital Suba CAP Lisboa",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132 D - KR 151 A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 D - KR 151 A (127A03)",
+        "PANEL": "CL 132 D - KR 151 A",
+        "AUDIO": "Calle 132 D Carrera 151 A",
+        "LONGITUD": -74.12194752,
+        "LATITUD": 4.7434812,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12194751799996,
+          4.743481201000009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "145A03",
+        "NOMBRE": " San Pedro",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 151A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 151A  (145A03)",
+        "PANEL": "CL 138 - KR 151A",
+        "AUDIO": "Calle 138 Carrera 151 A",
+        "LONGITUD": -74.1214327,
+        "LATITUD": 4.74616257,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12143270399997,
+          4.74616256500002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "147A03",
+        "NOMBRE": " San Pedro",
+        "VIA": "KR 149B",
+        "DIRECCION_": "KR 149B - CL 138",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 149B - CL 138 (147A03)",
+        "PANEL": "KR 149B - CL 138",
+        "AUDIO": "Carrera 149 Be Calle 138",
+        "LONGITUD": -74.120423,
+        "LATITUD": 4.747542999999999,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12042299999996,
+          4.747543000000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "129A03",
+        "NOMBRE": "Br. Lisboa",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132 D - KR 149 C",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 D - KR 149 C (129A03)",
+        "PANEL": "CL 132 D - KR 149 C",
+        "AUDIO": "Calle 132 D Carrera 149 C",
+        "LONGITUD": -74.11962909,
+        "LATITUD": 4.74440622,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11962908700002,
+          4.744406217000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "281A03",
+        "NOMBRE": "Parque El Nogal",
+        "VIA": "KR 140",
+        "DIRECCION_": "KR 140 - CL 132A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 140 - CL 132A (281A03)",
+        "PANEL": "KR 140 - CL 132A",
+        "AUDIO": "Carrera 140 Calle 132 A",
+        "LONGITUD": -74.11611581,
+        "LATITUD": 4.74353656,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11611581099999,
+          4.74353656400001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "095B03",
+        "NOMBRE": "Br. La Toscana",
+        "VIA": "CL 132D",
+        "DIRECCION_": "CL 132D - KR 143A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "M",
+        "CONSOLA": "CL 132D - KR 143A (095B03)",
+        "PANEL": "CL 132D - KR 143A",
+        "AUDIO": "Calle 132 D Carrera 143 A",
+        "LONGITUD": -74.116753,
+        "LATITUD": 4.7449,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11675300000002,
+          4.744900001000019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "284A03",
+        "NOMBRE": "Br. Berlín",
+        "VIA": "Tv 138",
+        "DIRECCION_": "TV 138 - CL 137",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "TV 138 - CL 137 (284A03)",
+        "PANEL": "TV 138 - CL 137",
+        "AUDIO": "Transversal 138 Calle 137",
+        "LONGITUD": -74.11460055,
+        "LATITUD": 4.74614023,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11460054899999,
+          4.74614022999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "648A03",
+        "NOMBRE": "San Carlos de Tibabuyes",
+        "VIA": "KR 141",
+        "DIRECCION_": "KR 141 – CL 142 Bis",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 141 – CL 142 Bis (648A03)",
+        "PANEL": "KR 141 – CL 142 Bis",
+        "AUDIO": "Carrera 141 Calle 142 Bis",
+        "LONGITUD": -74.115285,
+        "LATITUD": 4.747978,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11528499999997,
+          4.747977999999989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "609A03",
+        "NOMBRE": "Urb. Los Campos",
+        "VIA": "KR 129",
+        "DIRECCION_": "KR 129 - CL 138",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 129 - CL 138 (609A03)",
+        "PANEL": "KR 129 - CL 138",
+        "AUDIO": "Carrera 129 - Calle 138",
+        "LONGITUD": -74.11137462,
+        "LATITUD": 4.74564534,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11137461600003,
+          4.74564534000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "285A03",
+        "NOMBRE": "Br. San Carlos de Tibabuyes",
+        "VIA": "KR 139",
+        "DIRECCION_": "KR 139 - CL 142A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 139 - CL 142A (285A03)",
+        "PANEL": "KR 139 - CL 142A",
+        "AUDIO": "Carrera 139 Calle 142 A",
+        "LONGITUD": -74.113148,
+        "LATITUD": 4.747907,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11314800000002,
+          4.747906999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "154A03",
+        "NOMBRE": "Br. La Gaitana",
+        "VIA": "TV 126B",
+        "DIRECCION_": "TV 126B - CL 132 D",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "TV 126B - CL 132 D (154A03)",
+        "PANEL": "TV 126B - CL 132 D",
+        "AUDIO": "Transversal 126 Be Calle 132 D",
+        "LONGITUD": -74.11064751,
+        "LATITUD": 4.74207727,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.110647513,
+          4.742077268999992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "137A03",
+        "NOMBRE": "Br. Villa Cindy",
+        "VIA": "KR  158 B",
+        "DIRECCION_": "KR 158 B - CL 136 C",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 158 B - CL 136 C  (137A03)",
+        "PANEL": "KR 158 B - CL 136 C",
+        "AUDIO": "Carrera 158 Be Calle 136 C",
+        "LONGITUD": -74.12920112,
+        "LATITUD": 4.7429033700000005,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12920111699998,
+          4.742903367999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "141A03",
+        "NOMBRE": "Br. Villa Cindy",
+        "VIA": "KR  156 A",
+        "DIRECCION_": "KR 156 A - CL 136 A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 156 A - CL 136 A  (141A03)",
+        "PANEL": "KR 156 A - CL 136 A",
+        "AUDIO": "Carrera 156 A Calle 136 A",
+        "LONGITUD": -74.126915,
+        "LATITUD": 4.743088,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12691500000005,
+          4.743088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "125A03",
+        "NOMBRE": "Cl 132",
+        "VIA": "KR  154",
+        "DIRECCION_": "KR 154 - CL 132",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 154 - CL 132 (125A03)",
+        "PANEL": "KR 154 - CL 132",
+        "AUDIO": "Carrera 154 Calle 132",
+        "LONGITUD": -74.12442711,
+        "LATITUD": 4.74197622,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12442711400001,
+          4.741976223999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "257A03",
+        "NOMBRE": "Kr 152",
+        "VIA": "KR  152",
+        "DIRECCION_": "KR 152 - CL 132",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 152 - CL 132 (257A03)",
+        "PANEL": "KR 152 - CL 132",
+        "AUDIO": "Carrera 152 Calle 132",
+        "LONGITUD": -74.12245936,
+        "LATITUD": 4.74252823,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12245936500005,
+          4.742528230000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "096A03",
+        "NOMBRE": "Br. La Toscana",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132 D - KR 140 C",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 D - KR 140 C  (096A03)",
+        "PANEL": "CL 132 D - KR 140 C",
+        "AUDIO": "Calle 132 D Carrera 140 C",
+        "LONGITUD": -74.11633101,
+        "LATITUD": 4.74479676,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11633100699999,
+          4.744796763000011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "151A03",
+        "NOMBRE": " Berlín",
+        "VIA": "CL 139",
+        "DIRECCION_": "CL 139 - KR 140B Bis",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 139 - KR 140B Bis (151A03)",
+        "PANEL": "CL 139 - KR 140B Bis",
+        "AUDIO": "Calle 139 Carrera 140 Be Bis",
+        "LONGITUD": -74.11508006,
+        "LATITUD": 4.74702939,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11508006400004,
+          4.747029386000008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "650A03",
+        "NOMBRE": "Conjunto Cafam II",
+        "VIA": "KR 141",
+        "DIRECCION_": "KR 141 – CL 142 F",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 141 – CL 142 F (650A03)",
+        "PANEL": "KR 141 – CL 142 F",
+        "AUDIO": "Carrera 141 Calle 142 F",
+        "LONGITUD": -74.113991,
+        "LATITUD": 4.749999,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11399100000006,
+          4.7499990000000025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "407A03",
+        "NOMBRE": "Br. San Carlos de Tibabuyes",
+        "VIA": "KR 139",
+        "DIRECCION_": "KR 139 - CL 143",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 139 - CL 143 (407A03)",
+        "PANEL": "KR 139 - CL 143",
+        "AUDIO": "Carrera 139 Calle 143",
+        "LONGITUD": -74.112028,
+        "LATITUD": 4.7498629999999995,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11202800000001,
+          4.749863000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "661A03",
+        "NOMBRE": "Santa Rita de Suba",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 159A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 159A (661A03)",
+        "PANEL": "CL 138 - KR 159A",
+        "AUDIO": "Calle 138 Carrera 159A",
+        "LONGITUD": -74.129522,
+        "LATITUD": 4.744686,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12952199999995,
+          4.7446860000000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "144A03",
+        "NOMBRE": " Santa Rita de Suba",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 154",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 154  (144A03)",
+        "PANEL": "CL 138 - KR 154",
+        "AUDIO": "Calle 138 Carrera 154",
+        "LONGITUD": -74.12576932,
+        "LATITUD": 4.74464342,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12576931900003,
+          4.74464341700002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "130A03",
+        "NOMBRE": "Br. Tibabuyes",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132 D -KR 148 B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 D -KR 148 B (130A03)",
+        "PANEL": "CL 132 D -KR 148 B",
+        "AUDIO": "Calle 132 D Carrera 148 Be",
+        "LONGITUD": -74.11982627,
+        "LATITUD": 4.74423493,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11982627099997,
+          4.744234928000026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "149A03",
+        "NOMBRE": " Berlín",
+        "VIA": "CL 139",
+        "DIRECCION_": "CL 139 - KR 147",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 139 - KR 147 (149A03)",
+        "PANEL": "CL 139 - KR 147",
+        "AUDIO": "Calle 139 Carrera 147",
+        "LONGITUD": -74.11815071,
+        "LATITUD": 4.74731759,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11815070800003,
+          4.747317586999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "624A03",
+        "NOMBRE": "Br. Toscana",
+        "VIA": "KR 131",
+        "DIRECCION_": "KR 131 - CL 132D",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 131 - CL 132D (624A03)",
+        "PANEL": "KR 131 - CL 132D",
+        "AUDIO": "Carrera 131 Calle 132 D",
+        "LONGITUD": -74.113287,
+        "LATITUD": 4.743328,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11328700000001,
+          4.7433280000000195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "092A03",
+        "NOMBRE": "Br. La Gaitana",
+        "VIA": "TV 127",
+        "DIRECCION_": "TV 127 - CL 132D",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "TV 127 - CL 132D  (092A03)",
+        "PANEL": "TV 127 - CL 132D",
+        "AUDIO": "Transversal 127 Calle 132 D",
+        "LONGITUD": -74.11145842,
+        "LATITUD": 4.74287212,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.111458416,
+          4.74287211799998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "409A03",
+        "NOMBRE": "Br. Sabana de Tibabuyes",
+        "VIA": "KR 129 A",
+        "DIRECCION_": "KR 129A - CL 142D",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 129A - CL 142D (409A03)",
+        "PANEL": "KR 129A - CL 142D",
+        "AUDIO": "Carrera 129 A Calle 142 D",
+        "LONGITUD": -74.11123867,
+        "LATITUD": 4.7490308,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11123866800006,
+          4.7490308010000035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "607B03",
+        "NOMBRE": "Urb. Los Campos",
+        "VIA": "CL 139",
+        "DIRECCION_": "CL 139 - KR 129",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "M",
+        "CONSOLA": "CL 139 - KR 129 (607B03)",
+        "PANEL": "CL 139 - KR 129",
+        "AUDIO": "Calle 139 Carrera 129",
+        "LONGITUD": -74.110986,
+        "LATITUD": 4.746121,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11098600000003,
+          4.746121001000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "122A03",
+        "NOMBRE": "Br. Santa Cecilia I",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132D - KR 159",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132D - KR 159 (122A03)",
+        "PANEL": "CL 132D - KR 159",
+        "AUDIO": "Calle 132 D Carrera 159",
+        "LONGITUD": -74.12945806,
+        "LATITUD": 4.74023367,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12945806100004,
+          4.7402336679999735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "660A03",
+        "NOMBRE": "Villa Cindy",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 159A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 159A (660A03)",
+        "PANEL": "CL 138 - KR 159A",
+        "AUDIO": "Calle 138 Carrera 159A",
+        "LONGITUD": -74.12944999999999,
+        "LATITUD": 4.7445889999999995,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12945000000002,
+          4.744589000000019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "249A03",
+        "NOMBRE": "Br. Santa Cecilia I",
+        "VIA": "CL 132D",
+        "DIRECCION_": "CL 132D - KR 158-23",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132D - KR 158-23 (249A03)",
+        "PANEL": "CL 132D - KR 158-23",
+        "AUDIO": "Calle 132 D Carrera 158",
+        "LONGITUD": -74.12831987,
+        "LATITUD": 4.74073204,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12831986599997,
+          4.740732037999976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "140A03",
+        "NOMBRE": " Santa Rita de Suba",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 158B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 158B (140A03)",
+        "PANEL": "CL 138 - KR 158B",
+        "AUDIO": "Calle 138 Carrera 158 Be",
+        "LONGITUD": -74.12856819,
+        "LATITUD": 4.74428532,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12856818800003,
+          4.744285316999992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "124A03",
+        "NOMBRE": "Br. Santa Cecilia",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132D - KR 156",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132D - KR 156 (124A03)",
+        "PANEL": "CL 132D - KR 156",
+        "AUDIO": "Calle 132 D Carrera 156",
+        "LONGITUD": -74.12582869,
+        "LATITUD": 4.74182636,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12582868699997,
+          4.74182635599999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "259A03",
+        "NOMBRE": "IED La Toscana - Lisboa",
+        "VIA": "CL 132",
+        "DIRECCION_": "CL 132 - KR 145A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 - KR 145A (259A03)",
+        "PANEL": "CL 132 - KR 145A",
+        "AUDIO": "Calle 132 Carrera 145 A",
+        "LONGITUD": -74.11739887,
+        "LATITUD": 4.74307381,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11739887099998,
+          4.743073809000009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "094B03",
+        "NOMBRE": "CED La Toscana",
+        "VIA": "CL 132D",
+        "DIRECCION_": "CL 132D - KR 132",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "M",
+        "CONSOLA": "CL 132D - KR 132 (094B03)",
+        "PANEL": "CL 132D - KR 132",
+        "AUDIO": "Calle 132 D Carrera 132",
+        "LONGITUD": -74.113862,
+        "LATITUD": 4.7433309999999995,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11386200000004,
+          4.743331001000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "679A03",
+        "NOMBRE": "Sabana de Tibabuyes",
+        "VIA": "CL 143",
+        "DIRECCION_": "CL 143 - KR 128",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 143 - KR 128 (679A03)",
+        "PANEL": "CL 143 - KR 128",
+        "AUDIO": "Calle 143 Carrera 128",
+        "LONGITUD": -74.11068,
+        "LATITUD": 4.7491,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11068,
+          4.7490999999999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "291A03",
+        "NOMBRE": "Pq. Sabana de Tibabuyes",
+        "VIA": "KR  128",
+        "DIRECCION_": "KR 128 - CL 142",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 128 - CL 142 (291A03)",
+        "PANEL": "KR 128 - CL 142",
+        "AUDIO": "Carrera 128 Calle 142",
+        "LONGITUD": -74.11010276,
+        "LATITUD": 4.74749317,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11010275900003,
+          4.747493168000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "121A03",
+        "NOMBRE": "Br. Santa Cecilia",
+        "VIA": "Cl 132 (LISBOA)",
+        "DIRECCION_": "CL 132 - KR 159",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 - KR 159 (121A03)",
+        "PANEL": "CL 132 - KR 159",
+        "AUDIO": "Calle 132 Carrera 159",
+        "LONGITUD": -74.12974545,
+        "LATITUD": 4.74021023,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12974545099996,
+          4.7402102330000275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "248A03",
+        "NOMBRE": "Pq Lisboa",
+        "VIA": "KR  154",
+        "DIRECCION_": "KR 154 - CL 131",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 154 - CL 131 (248A03)",
+        "PANEL": "KR 154 - CL 131",
+        "AUDIO": "Carrera 154 Calle 131",
+        "LONGITUD": -74.12400914,
+        "LATITUD": 4.74091663,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12400913600004,
+          4.7409166279999795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "148A03",
+        "NOMBRE": " San Pedro",
+        "VIA": "KR 149B",
+        "DIRECCION_": "KR 149B - CL 138",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 149B - CL 138 (148A03)",
+        "PANEL": "KR 149B - CL 138",
+        "AUDIO": "Carrera 149 Be Calle 138",
+        "LONGITUD": -74.120767,
+        "LATITUD": 4.747409,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.120767,
+          4.747409000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "150A03",
+        "NOMBRE": " Berlín",
+        "VIA": "CL 139",
+        "DIRECCION_": "CL 139 - KR 147",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 139 - KR 147 (150A03)",
+        "PANEL": "CL 139 - KR 147",
+        "AUDIO": "Calle 139 Carrera 147",
+        "LONGITUD": -74.11847168,
+        "LATITUD": 4.74727955,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11847168199995,
+          4.747279553999988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "095A03",
+        "NOMBRE": "Br. La Toscana",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132 D - KR 140B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "M",
+        "CONSOLA": "CL 132 D - KR 140B (095A03)",
+        "PANEL": "CL 132 D - KR 140B",
+        "AUDIO": "Calle 132 D Carrera 140 Be",
+        "LONGITUD": -74.11608376,
+        "LATITUD": 4.74454677,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.116083763,
+          4.744546774000014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "152A03",
+        "NOMBRE": " Berlín",
+        "VIA": "CL 139",
+        "DIRECCION_": "CL 139 - KR 140A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 139 - KR 140A (152A03)",
+        "PANEL": "CL 139 - KR 140A",
+        "AUDIO": "Calle 139 Carrera 140 A",
+        "LONGITUD": -74.11551682,
+        "LATITUD": 4.74699417,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11551682200002,
+          4.746994173000019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "283A03",
+        "NOMBRE": "Br. Berlín",
+        "VIA": "Tv 138",
+        "DIRECCION_": "TV 138 - CL 137",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "TV 138 - CL 137 (283A03)",
+        "PANEL": "TV 138 - CL 137",
+        "AUDIO": "Transversal 138 Calle 137",
+        "LONGITUD": -74.11448016,
+        "LATITUD": 4.74639861,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11448015600001,
+          4.746398608999982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "649A03",
+        "NOMBRE": "Colegio Gerardo Molina Ramírez IED",
+        "VIA": "KR 141",
+        "DIRECCION_": "KR 141 – CL 142 Bis",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 141 – CL 142 Bis (649A03)",
+        "PANEL": "KR 141 – CL 142 Bis",
+        "AUDIO": "Carrera 141 Calle 142 Bis",
+        "LONGITUD": -74.115213,
+        "LATITUD": 4.74831,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11521300000004,
+          4.748310000999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "635A03",
+        "NOMBRE": "Nogales de Suba",
+        "VIA": "KR 129",
+        "DIRECCION_": "KR 129 - CL 132A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 129 - CL 132A (635A03)",
+        "PANEL": "KR 129 - CL 132A",
+        "AUDIO": "Carrera 129 Calle 132 A",
+        "LONGITUD": -74.113435,
+        "LATITUD": 4.741385,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11343499999998,
+          4.74138499999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "608A03",
+        "NOMBRE": "IED José María Velaz",
+        "VIA": "KR 131",
+        "DIRECCION_": "KR 131 - CL 133",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 131 - CL 133 (608A03)",
+        "PANEL": "KR 131 - CL 133",
+        "AUDIO": "Carrera 131 Calle 133",
+        "LONGITUD": -74.11272266,
+        "LATITUD": 4.7442324,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11272266399999,
+          4.744232403000012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "288A03",
+        "NOMBRE": "Tibabuyes Universal",
+        "VIA": "CL 142",
+        "DIRECCION_": "CL 142 - KR 129B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 142 - KR 129B (288A03)",
+        "PANEL": "CL 142 - KR 129B",
+        "AUDIO": "Calle 142 Carrera 129 Be",
+        "LONGITUD": -74.11181634,
+        "LATITUD": 4.74723628,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11181633599995,
+          4.747236277000013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "153A03",
+        "NOMBRE": "Br. La Gaitana",
+        "VIA": "TV 126B",
+        "DIRECCION_": "TV 126B - CL 132D",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "TV 126B - CL 132D (153A03)",
+        "PANEL": "TV 126B - CL 132D",
+        "AUDIO": "Transversal 126 Be Calle 132 D",
+        "LONGITUD": -74.11054258,
+        "LATITUD": 4.7420089999999995,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11054258399997,
+          4.742008994999992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "246A03",
+        "NOMBRE": "Br. Santa Cecilia Rural",
+        "VIA": "KR  160",
+        "DIRECCION_": "KR 160 - CL 136",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 160 - CL 136 (246A03)",
+        "PANEL": "KR 160 - CL 136",
+        "AUDIO": "Carrera 160 Calle 136",
+        "LONGITUD": -74.129845,
+        "LATITUD": 4.7420659999999994,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12984500000005,
+          4.7420660000000225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "142A03",
+        "NOMBRE": "Br. Santa Rita de Suba",
+        "VIA": "KR  156 A",
+        "DIRECCION_": "TV 156 A - CL 136 A - 44",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "TV 156 A - CL 136 A - 44 (142A03)",
+        "PANEL": "TV 156 A - CL 136 A - 44",
+        "AUDIO": "Transversal 156 A Calle 136 A",
+        "LONGITUD": -74.127032,
+        "LATITUD": 4.7435469999999995,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12703199999999,
+          4.743546999999978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "253A03",
+        "NOMBRE": "Br. Santa Rita de Suba",
+        "VIA": "KR  158B",
+        "DIRECCION_": "KR 158B - CL 138B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 158B - CL 138B (253A03)",
+        "PANEL": "KR 158B - CL 138B",
+        "AUDIO": "Carrera 158 Be Calle 138 Be",
+        "LONGITUD": -74.12848254,
+        "LATITUD": 4.7451139,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12848253799996,
+          4.745113898999989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "123A03",
+        "NOMBRE": "Br. Santa Cecilia",
+        "VIA": "CL 132 D",
+        "DIRECCION_": "CL 132D - KR 155",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132D - KR 155 (123A03)",
+        "PANEL": "CL 132D - KR 155",
+        "AUDIO": "Calle 132 D Carrera 155",
+        "LONGITUD": -74.12580007,
+        "LATITUD": 4.74192675,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12580006600001,
+          4.741926749000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "505A03",
+        "NOMBRE": "Br. Lisboa",
+        "VIA": "CL 132D",
+        "DIRECCION_": "CL 132D - KR 152",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132D - KR 152 (505A03)",
+        "PANEL": "CL 132D - KR 152",
+        "AUDIO": "Calle 132 D Carrera 152",
+        "LONGITUD": -74.12329305,
+        "LATITUD": 4.74286624,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12329304599996,
+          4.74286624299998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "143A03",
+        "NOMBRE": " Santa Rita de Suba",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 154A Bis",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 154A Bis (143A03)",
+        "PANEL": "CL 138 - KR 154A Bis",
+        "AUDIO": "Calle 138 Carrera 154 A Bis",
+        "LONGITUD": -74.12568963,
+        "LATITUD": 4.74475674,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12568963299998,
+          4.744756741000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "126A03",
+        "NOMBRE": "Br. Lisboa",
+        "VIA": "Cl 130",
+        "DIRECCION_": "CL 130 - KR 153",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 130 - KR 153 (126A03)",
+        "PANEL": "CL 130 - KR 153",
+        "AUDIO": "Calle 130 Carrera 153",
+        "LONGITUD": -74.12288291,
+        "LATITUD": 4.74064071,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12288290699996,
+          4.740640711000026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "146A03",
+        "NOMBRE": " San Pedro",
+        "VIA": "CL 138",
+        "DIRECCION_": "CL 138 - KR 151A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 138 - KR 151A (146A03)",
+        "PANEL": "CL 138 - KR 151A",
+        "AUDIO": "Calle 138 Carrera 151 A",
+        "LONGITUD": -74.12239778,
+        "LATITUD": 4.7459020800000005,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12239777900004,
+          4.745902080000008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "278A03",
+        "NOMBRE": "Parque El Nogal",
+        "VIA": "KR  140",
+        "DIRECCION_": "KR 140 - CL 132A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 140 - CL 132A (278A03)",
+        "PANEL": "KR 140 - CL 132A",
+        "AUDIO": "Carrera 140 Calle 132 A",
+        "LONGITUD": -74.11608009,
+        "LATITUD": 4.74371536,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11608008500002,
+          4.743715359000021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "280A03",
+        "NOMBRE": "Br. Santa Rita",
+        "VIA": "CL 132",
+        "DIRECCION_": "CL 132 - KR 132A",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "CL 132 - KR 132A (280A03)",
+        "PANEL": "CL 132 - KR 132A",
+        "AUDIO": "Calle 132 Carrera 132 A",
+        "LONGITUD": -74.11515306,
+        "LATITUD": 4.7414601,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11515305499995,
+          4.741460098999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "669A03",
+        "NOMBRE": "Br. Toscana",
+        "VIA": "KR 136 A",
+        "DIRECCION_": "KR 136 A - CL 138",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "S",
+        "CONSOLA": "KR 136 A - CL 138 (669A03)",
+        "PANEL": "KR 136 A - CL 138",
+        "AUDIO": "Carrera 136 A Calle 138",
+        "LONGITUD": -74.11385,
+        "LATITUD": 4.746137,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11384999999996,
+          4.746136999999976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CENEFA": "607A03",
+        "NOMBRE": "Urb. Los Campos",
+        "VIA": "KR 129",
+        "DIRECCION_": "KR 129 - CL 137B",
+        "LOCALIDAD": "Suba",
+        "ZONA_SITP": "03",
+        "TIPO_M_S": "M",
+        "CONSOLA": "KR 129 - CL 137B (607A03)",
+        "PANEL": "KR 129 - CL 137B",
+        "AUDIO": "Carrera 129 - Calle 137 Be",
+        "LONGITUD": -74.11139058,
+        "LATITUD": 4.74588612,
+        "FUENTE": "Paraderos Zonales del SITP - TransMilenio S.A. / Secretaria Distrital de Movilidad",
+        "LICENCIA": "CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11139057699995,
+          4.745886120000023
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+﻿GmlID,OBJECTID,Ubicación_Referencia,Tipo,Nombre_del_Parque,relacion_lisboa
+PISTAS.641,641,07-260,1,El Recreo,fuera
+PISTAS.642,642,07-035,3,Naranjos,fuera
+PISTAS.643,643,08-552,2,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.644,644,08-552,5,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.645,645,08-552,1,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.646,646,08-552,1,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.647,647,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.648,648,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.649,649,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.650,650,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.651,651,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.652,652,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.653,653,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.654,654,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.655,655,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.656,656,08-552,3,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.657,657,08-552,1,Las Margaritas (Gilma Jimenez),fuera
+PISTAS.658,658,04-075,3,Villa De Los Alpes,fuera
+PISTAS.659,659,04-075,1,Villa De Los Alpes,fuera
+PISTAS.660,660,07-163,1,Clarelandia,fuera
+PISTAS.661,661,07-163,1,Clarelandia,fuera
+PISTAS.662,662,07-163,1,Clarelandia,fuera
+PISTAS.663,663,15-036,1,Villa Mayor Cementerio Del Sur,fuera
+PISTAS.664,664,18-028,3,Bosque  San Carlos,fuera
+PISTAS.665,665,09-050,3,Canal Boyaca Modelia,fuera
+PISTAS.666,666,09-050,3,Canal Boyaca Modelia,fuera
+PISTAS.667,667,15-027,2,Ciudad Jardin,fuera
+PISTAS.668,668,19-346,3,Illimani (Paraiso),fuera
+PISTAS.669,669,07-273,1,Urbanizacion La Esperanza,fuera
+PISTAS.670,670,07-273,5,Urbanizacion La Esperanza,fuera
+PISTAS.671,671,07-273,3,Urbanizacion La Esperanza,fuera
+PISTAS.672,672,07-273,3,Urbanizacion La Esperanza,fuera
+PISTAS.673,673,07-273,3,Urbanizacion La Esperanza,fuera
+PISTAS.674,674,07-273,3,Urbanizacion La Esperanza,fuera
+PISTAS.675,675,07-165,1,Palestina,fuera
+PISTAS.676,676,07-165,1,Palestina,fuera
+PISTAS.677,677,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.678,678,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.679,679,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.680,680,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.681,681,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.682,682,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.683,683,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.684,684,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.685,685,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.686,686,13-089,3,Simon Bolivar ( Sector Central ),fuera
+PISTAS.687,687,07-274,3,Tibanica,fuera
+PISTAS.688,688,03-085,5,Tercer Milenio,fuera
+PISTAS.689,689,03-085,5,Tercer Milenio,fuera
+PISTAS.690,690,03-085,1,Tercer Milenio,fuera
+PISTAS.691,691,03-085,2,Tercer Milenio,fuera
+PISTAS.692,692,03-085,1,Tercer Milenio,fuera
+PISTAS.693,693,03-085,1,Tercer Milenio,fuera
+PISTAS.694,694,03-085,1,Tercer Milenio,fuera
+PISTAS.695,695,03-085,1,Tercer Milenio,fuera
+PISTAS.696,696,03-085,3,Tercer Milenio,fuera
+PISTAS.697,697,03-085,3,Tercer Milenio,fuera
+PISTAS.698,698,03-085,3,Tercer Milenio,fuera
+PISTAS.699,699,03-085,3,Tercer Milenio,fuera
+PISTAS.700,700,03-085,3,Tercer Milenio,fuera
+PISTAS.701,701,03-085,3,Tercer Milenio,fuera
+PISTAS.702,702,03-085,3,Tercer Milenio,fuera
+PISTAS.703,703,03-085,3,Tercer Milenio,fuera
+PISTAS.704,704,03-085,3,Tercer Milenio,fuera
+PISTAS.705,705,06-063,2,El Tunal,fuera
+PISTAS.706,706,06-063,1,El Tunal,fuera
+PISTAS.707,707,06-063,1,El Tunal,fuera
+PISTAS.708,708,06-063,1,El Tunal,fuera
+PISTAS.709,709,06-063,3,El Tunal,fuera
+PISTAS.710,710,06-063,5,El Tunal,fuera
+PISTAS.711,711,10-311,1,La Florida,fuera
+PISTAS.712,712,10-311,5,La Florida,fuera
+PISTAS.713,713,10-311,2,La Florida,fuera
+PISTAS.714,714,10-290,5,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.715,715,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.716,716,10-290,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.717,717,10-290,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.718,718,10-290,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.719,719,10-290,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.720,720,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.721,721,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.722,722,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.723,723,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.724,724,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.725,725,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.726,726,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.727,727,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.728,728,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.729,729,10-290,3,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),fuera
+PISTAS.730,730,19-788,5,,fuera
+PISTAS.731,731,04-196,3,Deportivo Primero De Mayo,fuera
+PISTAS.732,732,04-196,1,Deportivo Primero De Mayo,fuera
+PISTAS.733,733,04-196,2,Deportivo Primero De Mayo,fuera
+PISTAS.734,734,04-196,1,Deportivo Primero De Mayo,fuera
+PISTAS.735,735,08-219,1,Timiza,fuera
+PISTAS.736,736,08-219,2,Timiza,fuera
+PISTAS.737,737,08-219,1,Timiza,fuera
+PISTAS.738,738,08-219,1,Timiza,fuera
+PISTAS.739,739,03-035,1,Parque Nacional  Enrique Olaya Herrera ,fuera
+PISTAS.740,740,03-035,1,Parque Nacional  Enrique Olaya Herrera ,fuera
+PISTAS.741,741,03-035,1,Parque Nacional  Enrique Olaya Herrera ,fuera
+PISTAS.742,742,04-127,5,San Cristobal,fuera
+PISTAS.743,743,12-092,3,Simon Bolivar ( Sector Parque De Los Novios ),fuera
+PISTAS.744,744,07-391,3,El Porvenir,fuera
+PISTAS.745,745,07-391,3,El Porvenir,fuera
+PISTAS.746,746,07-391,1,El Porvenir,fuera
+PISTAS.747,747,07-391,1,El Porvenir,fuera
+PISTAS.748,748,07-391,3,El Porvenir,fuera
+PISTAS.749,749,12-091,1,Simon Bolivar ( Sector Parque Deportivo El Salitre ),fuera
+PISTAS.750,750,12-091,1,Simon Bolivar ( Sector Parque Deportivo El Salitre ),fuera
+PISTAS.751,751,12-091,1,Simon Bolivar ( Sector Parque Deportivo El Salitre ),fuera
+PISTAS.752,752,12-091,1,Simon Bolivar ( Sector Parque Deportivo El Salitre ),fuera
+PISTAS.753,753,12-091,3,Simon Bolivar ( Sector Parque Deportivo El Salitre ),fuera
+PISTAS.754,754,05-086,2,Famaco,fuera
+PISTAS.755,755,07-164,1,Parque Del Rio (San Jose De Maryland),fuera
+PISTAS.756,756,08-219,3,Timiza,fuera
+PISTAS.757,757,13-089,2,Simon Bolivar ( Sector Central ),fuera
+PISTAS.758,758,15-027,1,Ciudad Jardin,fuera
+PISTAS.759,759,15-027,3,Ciudad Jardin,fuera
+PISTAS.760,760,15-036,3,Villa Mayor Cementerio Del Sur,fuera
+PISTAS.761,761,08-219,3,Timiza,fuera
+PISTAS.762,762,08-219,1,Timiza,fuera
+PISTAS.763,763,12-093,5,La Estacion,fuera
+PISTAS.764,764,11-212,1,Tibabuyes,fuera
+PISTAS.765,765,10-171,3,Parque Juan Amarillo,fuera
+PISTAS.766,766,13-038,1,Nicolas De Federman 3,fuera
+PISTAS.767,767,13-038,1,Nicolas De Federman 3,fuera
+PISTAS.768,768,11-368,5,Fontanar Del Rio,fuera
+PISTAS.769,769,11-368,5,Fontanar Del Rio,fuera
+PISTAS.770,770,11-368,5,Fontanar Del Rio,fuera
+PISTAS.771,771,11-368,1,Fontanar Del Rio,fuera
+PISTAS.772,772,11-368,3,Fontanar Del Rio,fuera
+PISTAS.773,773,01-075,1,Alta Blanca,fuera
+PISTAS.774,774,01-075,1,Alta Blanca,fuera
+PISTAS.775,775,14-009,1,Santa Isabel,fuera
+PISTAS.776,776,10-234,1,San Andres,fuera
+PISTAS.777,777,10-234,1,San Andres,fuera
+PISTAS.778,778,10-234,1,San Andres,fuera
+PISTAS.779,779,10-234,2,San Andres,fuera
+PISTAS.780,780,10-234,1,San Andres,fuera
+PISTAS.781,781,10-234,3,San Andres,fuera
+PISTAS.782,782,01-023,3,Servita,fuera
+PISTAS.785,785,10-102,5,Villas De Granada,fuera
+PISTAS.787,787,12-091,2,Simon Bolivar ( Sector Parque Deportivo El Salitre ),fuera
+PISTAS.788,788,01-023,3,Servita,fuera
+PISTAS.789,789,18-207,5,Parque Estadio Olaya Herrera,fuera
+PISTAS.790,790,16-112,1,Ciudad Montes,fuera
+PISTAS.791,791,08-791,3,Urb San Ignacio Parque 1 Zonal,fuera
+PISTAS.792,792,08-791,1,Urb San Ignacio Parque 1 Zonal,fuera
+PISTAS.793,793,08-791,1,Urb San Ignacio Parque 1 Zonal,fuera
+PISTAS.794,794,08-791,1,Urb San Ignacio Parque 1 Zonal,fuera
+PISTAS.795,795,08-144,5,Bellavista-Dindalito,fuera
+PISTAS.796,796,14-030,1,Eduardo Santos,fuera
+PISTAS.797,797,14-030,1,Eduardo Santos,fuera
+PISTAS.798,798,19-231,1,Urbanizacion La Estancia,fuera
+PISTAS.799,799,19-231,1,Urbanizacion La Estancia,fuera
+PISTAS.800,800,19-231,3,Urbanizacion La Estancia,fuera
+PISTAS.801,801,19-348,1,El Taller ( El Ensue¤o ),fuera
+PISTAS.802,802,05-002,3,La Aurora Ii,fuera
+PISTAS.803,803,09-111,1,Sauzalito,fuera
+PISTAS.804,804,09-111,2,Sauzalito,fuera
+PISTAS.805,805,09-111,3,Sauzalito,fuera
+PISTAS.806,806,09-111,1,Sauzalito,fuera
+PISTAS.807,807,05-004,1,La Andrea,fuera
+PISTAS.808,808,05-004,1,La Andrea,fuera
+PISTAS.809,809,08-241,1,Cayetano Ca¤izares,fuera
+PISTAS.810,810,08-241,2,Cayetano Ca¤izares,fuera
+PISTAS.811,811,08-241,2,Cayetano Ca¤izares,fuera
+PISTAS.812,812,08-241,1,Cayetano Ca¤izares,fuera
+PISTAS.813,813,18-162,1,Los Molinos Ii,fuera
+PISTAS.814,814,17-008,5,La Concordia,fuera
+PISTAS.815,815,17-008,5,La Concordia,fuera
+PISTAS.816,816,08-200,1,Castilla,fuera
+PISTAS.817,817,15-040,1,La Fragua,fuera
+PISTAS.818,818,15-040,1,La Fragua,fuera
+PISTAS.819,819,08-355,1,La Amistad,fuera
+PISTAS.820,820,08-355,3,La Amistad,fuera
+PISTAS.821,821,09-104,5,Atahualpa,fuera
+PISTAS.822,822,09-104,1,Atahualpa,fuera
+PISTAS.823,823,09-104,1,Atahualpa,fuera
+PISTAS.824,824,09-104,3,Atahualpa,fuera
+PISTAS.825,825,12-015,1,Alcazares,fuera
+PISTAS.826,826,08-212,3,La Igualdad,fuera
+PISTAS.827,827,11-205,1,La Gaitana,fuera
+PISTAS.828,828,11-205,1,La Gaitana,fuera
+PISTAS.829,829,11-205,1,La Gaitana,fuera
+PISTAS.830,830,08-066,1,"Marsella Sector Norte I Etapa,Pinos De Marsella",fuera
+PISTAS.831,831,18-205,1,Quiroga,fuera
+PISTAS.832,832,05-003,1,Valles De Cafam,fuera
+PISTAS.833,833,05-003,1,Valles De Cafam,fuera
+PISTAS.834,834,18-031,3,Diana Turbay,fuera
+PISTAS.835,835,16-204,1,El Jazmin,fuera
+PISTAS.836,836,16-204,1,El Jazmin,fuera
+PISTAS.837,837,16-112,3,Ciudad Montes,fuera
+PISTAS.838,838,16-112,3,Ciudad Montes,fuera
+PISTAS.962,962,19-348,1,El Taller ( El Ensue¤o ),fuera
+PISTAS.1281,1281,06-063,1,El Tunal,fuera
+PISTAS.1282,1282,06-063,3,El Tunal,fuera
+PISTAS.1922,1922,08-200,1,Castilla,fuera
+PISTAS.2242,2242,11-368,1,Fontanar Del Rio,fuera
+PISTAS.2244,2244,11-368,1,Fontanar Del Rio,fuera
+PISTAS.2247,2247,11-368,1,Fontanar Del Rio,fuera
+PISTAS.2248,2248,11-368,1,Fontanar Del Rio,fuera
+PISTAS.5122,5122,11-1324,3,Urbanizacion Villas De Covaria,fuera
+PISTAS.5233,5233,11-659,1,Urbanizacion Fontanar Del Rio B Primera Etapa,fuera
+PISTAS.5234,5234,11-030,3,Urbanizacion Costa Azul I Y Ii Etapa,fuera
+PISTAS.5236,5236,11-200,3,Urbanizacion El Refugio De Suba,fuera
+PISTAS.5237,5237,11-158,1,Urbanizacion La Trinitaria,fuera
+PISTAS.5240,5240,10-583,5,"Urbanizacion Ciudadela Colsubsidio Sectores Ii, Iii, Iv, V",fuera
+PISTAS.5242,5242,10-177,3,Ciudadela Colsubsidio,fuera
+PISTAS.5243,5243,10-177,3,Ciudadela Colsubsidio,fuera
+PISTAS.5762,5762,10-068,4,Urbanizacion Floridablanca Ii Sector 1 Etapa,fuera
+PISTAS.6081,6081,10-582,1,"Urbanizacion Ciudadela Colsubsidio Sectores Ii, Iii, Iv, V",fuera
+PISTAS.6083,6083,09-130,4,Bohios De Hunza,fuera
+PISTAS.6084,6084,09-309,4,San Juan De Dios,fuera
+PISTAS.6085,6085,09-309,4,San Juan De Dios,fuera
+PISTAS.6086,6086,09-333,4,Urb La Felicidad Parque 13,fuera
+PISTAS.6087,6087,09-333,4,Urb La Felicidad Parque 13,fuera
+PISTAS.6401,6401,11-246,1,Urbanizacion La Sabana De Tibabuyes,fuera
+PISTAS.6402,6402,11-178,3,Urbanizacion Potosi Ii Sector,fuera
+PISTAS.6721,6721,11-291,1,Aures Ii,fuera
+PISTAS.6722,6722,10-051,5,"Urbanizacion Bolivia Occidental Iv,V Y Vi Etapas",fuera
+PISTAS.6723,6723,10-051,2,"Urbanizacion Bolivia Occidental Iv,V Y Vi Etapas",fuera
+PISTAS.6724,6724,10-051,2,"Urbanizacion Bolivia Occidental Iv,V Y Vi Etapas",fuera
+PISTAS.6725,6725,10-173,1,Urbanizacion Ciudad Bachue Ii Segunda Etapa,fuera
+PISTAS.7361,7361,10-570,4,Carrefour Calle 80,fuera
+PISTAS.7362,7362,10-570,4,Carrefour Calle 80,fuera
+PISTAS.7363,7363,10-570,4,Carrefour Calle 80,fuera
+PISTAS.7364,7364,10-570,4,Carrefour Calle 80,fuera
+PISTAS.7365,7365,10-570,4,Carrefour Calle 80,fuera
+PISTAS.7681,7681,10-025,1,Urbanizacion San Jorge Norte,fuera
+PISTAS.7682,7682,10-126,1,"Urbanizacion Villa Amalia, Proyecto Protecho",fuera
+PISTAS.7683,7683,10-165,4,Urbanizacion La Bonanza I Sector,fuera
+PISTAS.7793,7793,11-669,4,Urbanizacion  Vilanova,fuera
+PISTAS.9281,9281,09-013,4,Villemar,fuera
+PISTAS.9282,9282,08-711,4,Villa Alsacia Lote 1,fuera
+PISTAS.9283,9283,08-706,4,Villa Alsacia Lote 1,fuera
+PISTAS.9284,9284,08-097,1,Vision De Colombia,fuera
+PISTAS.9285,9285,08-094,4,Desarrollo Andalucia,fuera
+PISTAS.9286,9286,08-406,4,Avenida Primero De Mayo - La Llanura,fuera
+PISTAS.9287,9287,09-311,1,	Urb La Esperanza Etapa A (Villa Zamora,fuera
+PISTAS.9288,9288,08-036,1,Catania,fuera
+PISTAS.9601,9601,08-290,4,Santa Catalina,fuera
+PISTAS.9602,9602,08-533,4,Las Luces Y Villa Rica,fuera
+PISTAS.9603,9603,07-457,5,Urbanizacion Ciudadela El Recreo,fuera
+PISTAS.9604,9604,07-457,5,Urbanizacion Ciudadela El Recreo,fuera
+PISTAS.9605,9605,07-457,5,Urbanizacion Ciudadela El Recreo,fuera
+PISTAS.9606,9606,08-249,4,El Carmelo Favidi Sectores A Y B,fuera
+PISTAS.9607,9607,08-249,1,El Carmelo Favidi Sectores A Y B,fuera
+PISTAS.9608,9608,08-160,1,El Parque Etapa I Y Ii,fuera
+PISTAS.9609,9609,08-160,1,El Parque Etapa I Y Ii,fuera
+PISTAS.9610,9610,08-042,4,Nuevas Delicias,fuera
+PISTAS.9611,9611,08-233,1,Desarrollo Villa Andres Y Desarrollo Santa Monica,fuera
+PISTAS.9921,9921,10-195,4,Desarrollo Linterama,fuera
+PISTAS.9922,9922,10-312,1,San JoseNorte,fuera
+PISTAS.9923,9923,08-105,1,Llano Grande,fuera
+PISTAS.9925,9925,07-091,1,Urbanizacion La Sultana Del Sur,fuera
+PISTAS.9926,9926,07-267,5,Desarrollo La Concepcion,fuera
+PISTAS.9927,9927,07-041,3,Brasil (Villa De Los Comuneros),fuera
+PISTAS.9928,9928,19-035,5,Urbanizacion Madelana Iii Y Iv Sector,fuera
+PISTAS.9929,9929,19-750,3,Urb Balmoral Cesion Guadalupe,fuera
+PISTAS.9930,9930,19-750,3,Urb Balmoral Cesion Guadalupe,fuera
+PISTAS.9931,9931,19-750,3,Urb Balmoral Cesion Guadalupe,fuera
+PISTAS.9932,9932,19-104,1,Urbanizacion La Alameda,fuera
+PISTAS.9933,9933,19-537,1,Desarrollo El Tesoro,fuera
+PISTAS.9934,9934,18-070,1,Urbanizacion Las Lomas 2 Sector,fuera
+PISTAS.9935,9935,07-083,1,Desarrollo Carlos Alban Holguin,fuera
+PISTAS.10241,10241,08-273,4,Las Americas Sector Avenida Galan,fuera
+PISTAS.10242,10242,08-385,1,Conjunto De Vivienda Supermanzana 9-A Ciudad Kenendy-Unidad Residencial Ayacucho,fuera
+PISTAS.10244,10244,08-072,1,Urbanizacion La Unidad,fuera
+PISTAS.10245,10245,08-072,1,Urbanizacion La Unidad,fuera
+PISTAS.10246,10246,07-111,4,Desarrollo San Luis,fuera
+PISTAS.10247,10247,07-071,3,Desarrollo  Piamonte  I,fuera
+PISTAS.10353,10353,08-799,1,Urb VillaMejia Parque 2,fuera
+PISTAS.10355,10355,08-343,1,Ciudad Kennedy Supermanzana 8,fuera
+PISTAS.10356,10356,08-017,1,Ciudad Kennedy Oriental Supermanzana 16,fuera
+PISTAS.10357,10357,08-194,1,Kennedy Norte Supermanzana  11,fuera
+PISTAS.10358,10358,08-697,1,Villa Andrea,fuera
+PISTAS.10359,10359,19-010,1,Desarrollo Arborizadora Baja,fuera
+PISTAS.10360,10360,19-010,1,Desarrollo Arborizadora Baja,fuera
+PISTAS.10361,10361,07-026,1,"Desarrollo El Rincon De Bosa, Recuerdo 4A,5,6,7",fuera
+PISTAS.10882,10882,07-050,4,Urbanizacion Jose Maria Carbonell I Y Ii Etapas,fuera
+PISTAS.10883,10883,19-015,4,Desarrollo Rincon De Galicia,fuera
+PISTAS.10884,10884,19-043,4,Urbanizacion Candelaria La Nueva Primer Sector,fuera
+PISTAS.10885,10885,06-065,3,Urbanizacion El Tunal Ii,fuera
+PISTAS.10886,10886,06-065,3,Urbanizacion El Tunal Ii,fuera
+PISTAS.10887,10887,18-059,4,"Urbanizacion Quiroga I, Ii, Iii Etapa",fuera
+PISTAS.10888,10888,08-172,4,Urbanizacion Arbolete,fuera
+PISTAS.10889,10889,07-011,1,"Urbanizacion La Amistad, Desarrollo San Pablo Ii Sector",fuera
+PISTAS.11201,11201,10-538,2,Urbanizacion Ciudadela Colsubsidio Sector Iv,fuera
+PISTAS.11202,11202,10-005,1,San Marcos,fuera
+PISTAS.11203,11203,10-176,4,Urbanizacion Villas Del Madrigal - Molino Del Viento,fuera
+PISTAS.11204,11204,13-134,4,"Urbanizacion Ciudad Salitre Cuarta Etapa Sector 11 Supermanzanas Sm 11-1, Sm 11-2, Sm 11-4, Sm 11-5, Sm 11-7, Sm 11-8",fuera
+PISTAS.11313,11313,07-320,1,Urbanizacion Santiago De Atalayas,fuera
+PISTAS.11314,11314,10-186,4,Urbanizacion Los Angeles Primer Sector,fuera
+PISTAS.11521,11521,08-620,4,Santa Catalina I Y Ii Sector,fuera
+PISTAS.11522,11522,10-812,1,Los Cerezos,fuera
+PISTAS.11523,11523,10-812,1,Los Cerezos,fuera
+PISTAS.11524,11524,10-023,1,"Urbanizacion Los Monjes , Urbanizacion Santa Cecilia",fuera
+PISTAS.11841,11841,08-301,4,Catalina-Villa Rica,fuera
+PISTAS.11842,11842,08-368,4,Ciudad Kennedy Supermanzana 6A,fuera
+PISTAS.11843,11843,08-023,1,El Parque,fuera
+PISTAS.11844,11844,07-089,4,Desarrollo Brasilia I Sector,fuera
+PISTAS.11845,11845,07-081,1,Desarrollo Laureles Iii Sector,fuera
+PISTAS.11846,11846,07-085,4,Humberto Valencia,fuera
+PISTAS.11847,11847,07-085,4,Humberto Valencia,fuera
+PISTAS.11848,11848,07-085,4,Humberto Valencia,fuera
+PISTAS.11849,11849,07-085,4,Humberto Valencia,fuera
+PISTAS.11850,11850,07-049,4,"Desarrollo  Gran Colombiano Ii Sector, Naranjos",fuera
+PISTAS.11851,11851,08-082,1,"Bertha Hernandez De Ospina, Acip, Catalina Y Calalina Ii Sector",fuera
+PISTAS.11852,11852,11-1182,5,Urb Parque Central Pontevedra Etapa 1,fuera
+PISTAS.11853,11853,18-010,3,Barrio Claret,fuera
+PISTAS.11855,11855,11-162,3,Urbanizacion Victoria Norte,fuera
+PISTAS.12161,12161,16-076,3,Santa Matilde I Sector,fuera
+PISTAS.12162,12162,16-076,1,Santa Matilde I Sector,fuera
+PISTAS.12163,12163,16-114,1,Villa Del Rosario,fuera
+PISTAS.12164,12164,16-119,1,La Colonia Oriental,fuera
+PISTAS.12165,12165,13-187,5,Parque_Central_Salitre_Ces,fuera
+PISTAS.13441,13441,01-031,5,Nueva Urbanizacion El Cedrito,fuera
+PISTAS.13442,13442,15-017,3,Urbanizacion San Antonio De Padua,fuera
+PISTAS.13443,13443,15-017,3,Urbanizacion San Antonio De Padua,fuera
+PISTAS.13444,13444,15-002,3,Urbanizacion La Fraguita,fuera
+PISTAS.13445,13445,15-028,5,Desarrollo Policarpa Salavarrieta,fuera
+PISTAS.13446,13446,04-104,1,Altamira,fuera
+PISTAS.13447,13447,04-085,4,Urbanizacion La Herradura,fuera
+PISTAS.13761,13761,04-106,5,Desarrollo El Futuro,fuera
+PISTAS.13762,13762,04-106,5,Desarrollo El Futuro,fuera
+PISTAS.13763,13763,04-106,5,Desarrollo El Futuro,fuera
+PISTAS.13764,13764,04-106,5,Desarrollo El Futuro,fuera
+PISTAS.13765,13765,04-106,5,Desarrollo El Futuro,fuera
+PISTAS.13766,13766,04-106,5,Desarrollo El Futuro,fuera
+PISTAS.13767,13767,04-118,5,Desarrollo El Pinar  ( Republica Del Canada Ii Sector),fuera
+PISTAS.13768,13768,04-046,5,Urbanizacion Continental,fuera
+PISTAS.13769,13769,16-068,1,Los Sauces (Antes San Jorge Central Iii Sector),fuera
+PISTAS.13770,13770,08-211,1,Urbanizacion Techo,fuera
+PISTAS.13771,13771,16-036,4,La Francia,fuera
+PISTAS.13772,13772,16-036,4,La Francia,fuera
+PISTAS.13773,13773,05-058,4,Urbanizacion Marichuela I Etapa,fuera
+PISTAS.14081,14081,11-084,5,Urbanizacion Nueva Tibabuyes Etapa I,fuera
+PISTAS.14082,14082,11-084,2,Urbanizacion Nueva Tibabuyes Etapa I,fuera
+PISTAS.14083,14083,04-251,1,Urbanizacion Villa Del Cerro,fuera
+PISTAS.14084,14084,05-019,1,Chuniza I,fuera
+PISTAS.14085,14085,04-109,5,Urbanizacion La Joyita,fuera
+PISTAS.14086,14086,05-097,1,Urbanizacion El Libano,fuera
+PISTAS.14087,14087,05-097,3,Urbanizacion El Libano,fuera
+PISTAS.14401,14401,15-021,4,Santa Isabel,fuera
+PISTAS.14402,14402,11-031,3,Urbanizacion Costa Azul I Y Ii Etapa,fuera
+PISTAS.14403,14403,16-070,4,La Camelia Norte,fuera
+PISTAS.14721,14721,09-161,3,"Urbanizacion Ciudad Salitre Tercera Etapa De Desarrollo Sector 1 Supermanzanas Sm1-5, Sm1-6, Sm1-8, Sm1-9",fuera
+PISTAS.14722,14722,11-277,1,Urbanizacion  Lago De Suba,fuera
+PISTAS.14723,14723,11-277,1,Urbanizacion  Lago De Suba,fuera
+PISTAS.15041,15041,16-004,5,Industrial Puente Aranda,fuera
+PISTAS.15042,15042,16-004,5,Industrial Puente Aranda,fuera
+PISTAS.15043,15043,08-771,5,Urb Las Margaritas,fuera
+PISTAS.15044,15044,08-202,1,Urbanizacion Carimagua Primer Sector,fuera
+PISTAS.15045,15045,11-573,5,Urbanizacion Agrupacion De Vivienda El Rincon De Iberia,fuera
+PISTAS.15046,15046,08-040,1,Carvajal,fuera
+PISTAS.15047,15047,01-079,5,Urbanizacion El ToberÂ¡N,fuera
+PISTAS.15048,15048,01-079,5,Urbanizacion El ToberÂ¡N,fuera
+PISTAS.15049,15049,18-011,1,Urbanizacion Villa Mayor (Lote A  Sectores 4-5),fuera
+PISTAS.15050,15050,06-033,4,Urbanizacion El Tunal,fuera
+PISTAS.15153,15153,08-197,1,Floralia I Sector,fuera
+PISTAS.15154,15154,08-197,4,Floralia I Sector,fuera
+PISTAS.15155,15155,16-147,1,Autopista Muzu,fuera
+PISTAS.15361,15361,09-252,4,Urbanizacion Cundinamarca,fuera
+PISTAS.15362,15362,08-170,1,Ciudad Kennedy Oriental Supermanzana 6,fuera
+PISTAS.15363,15363,04-036,4,Altos Del Poblado,fuera
+PISTAS.15364,15364,05-057,1,La Aurora,fuera
+PISTAS.15681,15681,16-150,4,Torremolinos Ii Sector,fuera
+PISTAS.15682,15682,13-097,1,"Urbanizacion Ciudad Salitre Sector Iii Sm Iii-3,   Sm Iii-4, Sm Iii-5, Sm Iii-6, Sm Iii-7 Y Sm Iii-8",fuera
+PISTAS.16001,16001,07-020,5,Desarrollo Naranjos - El Retazo,fuera
+PISTAS.16002,16002,08-656,3,Ciudad Techo Ii,fuera
+PISTAS.16003,16003,12-117,4,Simon Bolivar ( Sector Salitre Magico ),fuera
+PISTAS.16225,16225,08-065,1,Villa Alsacia,fuera
+PISTAS.16641,16641,16-220,1,Urbanizacion San Eusebio,fuera
+PISTAS.16761,16761,08-710,3,Villa Alsacia Lote 1,fuera
+PISTAS.16762,16762,08-710,3,Villa Alsacia Lote 1,fuera
+PISTAS.16763,16763,01-096,2,Urbanizacion Contador,fuera
+PISTAS.16764,16764,12-109,4,Jorge Eliecer Gaitan,fuera
+PISTAS.16765,16765,11-742,5,Conjunto Residencial Arboreto,fuera
+PISTAS.16766,16766,09-200,3,"Urbanizacion Ciudad Hayuelos Etapas Ii,Iii, Iv Y V",fuera
+PISTAS.16767,16767,19-012,1,Urbanizacion La Coru¤a,fuera
+PISTAS.16768,16768,05-505,1,Reserva de San David,fuera
+PISTAS.16961,16961,08-806,1,Urb Villa Mariana,fuera
+PISTAS.16962,16962,05-149,1,El Triangulo,fuera
+PISTAS.16963,16963,09-016,3,Modelia Sector A,fuera
+PISTAS.16964,16964,11-677,5,Las Flores,fuera
+PISTAS.16965,16965,11-677,3,Las Flores,fuera
+PISTAS.16966,16966,11-677,3,Las Flores,fuera
+PISTAS.16967,16967,11-677,3,Las Flores,fuera
+PISTAS.17281,17281,18-019,1,Urbanizacion  Quiroga 8 Etapa,fuera
+PISTAS.17282,17282,18-019,1,Urbanizacion  Quiroga 8 Etapa,fuera
+PISTAS.17283,17283,18-019,2,Urbanizacion  Quiroga 8 Etapa,fuera
+PISTAS.17284,17284,18-029,1,Urbanizacion Avenida Decima San Isidro Sociego Sur,fuera
+PISTAS.17285,17285,18-035,5,Desarrollo Palermo Sur,fuera
+PISTAS.17393,17393,18-429,1,San Jose,fuera
+PISTAS.17394,17394,05-042,5,"Urbanizacion Miravalle I, Ii Y Iii Etapas,  El Cortijo, San Juan Bautista Y  San Luis",fuera
+PISTAS.17395,17395,05-042,1,"Urbanizacion Miravalle I, Ii Y Iii Etapas,  El Cortijo, San Juan Bautista Y  San Luis",fuera
+PISTAS.17396,17396,13-192,5,El Campin,fuera
+PISTAS.17397,17397,04-387,3,Ciudad Marbella Sector I - Caminos De San Cristobal,fuera
+PISTAS.17398,17398,19-121,3,Maria Cano,fuera
+PISTAS.17399,17399,15-076,3,Policarpa,fuera
+PISTAS.17601,17601,05-476,5,Ciudad Nuevo Milenio I Etapa I,fuera
+PISTAS.17602,17602,05-476,1,Ciudad Nuevo Milenio I Etapa I,fuera
+PISTAS.17603,17603,16-166,5,Philips Desarrollo Industrial,fuera
+PISTAS.17604,17604,06-099,1,Prm El Redentor,fuera
+PISTAS.17605,17605,06-099,3,Prm El Redentor,fuera
+PISTAS.17606,17606,06-099,5,Prm El Redentor,fuera
+PISTAS.17607,17607,19-133,4,Urbanizacion Madelena I Y Ii Sector,fuera
+PISTAS.17608,17608,19-133,4,Urbanizacion Madelena I Y Ii Sector,fuera
+PISTAS.17609,17609,12-090,3,Simon Bolivar (Sector Centro De Alto Rendimiento ),fuera
+PISTAS.17610,17610,12-090,3,Simon Bolivar (Sector Centro De Alto Rendimiento ),fuera
+PISTAS.17713,17713,19-451,1,Urbanizacion El EnsueÂ¥O,fuera
+PISTAS.17714,17714,19-360,1,Desarrollo  Sierra  Morena,fuera
+PISTAS.17715,17715,19-146,1,Urbanizacion Protecho Bogota Ii,fuera
+PISTAS.17716,17716,19-146,1,Urbanizacion Protecho Bogota Ii,fuera
+PISTAS.17718,17718,03-010,5,Desarrollo Lourdes,fuera
+PISTAS.17921,17921,12-035,4,Urbanizacion Metropolis,fuera
+PISTAS.17922,17922,09-201,1,Urbanizacion CapellanÂ¡A Ii Sector,fuera
+PISTAS.18241,18241,03-118,4,Desarrollo Los Laches,fuera
+PISTAS.18242,18242,03-118,4,Desarrollo Los Laches,fuera
+PISTAS.18243,18243,04-409,4,La Coru¤a Del Sur,fuera
+PISTAS.18244,18244,19-528,5,Desarrollo Arabia,fuera
+PISTAS.18245,18245,08-769,1,Urb Caracol,fuera
+PISTAS.18354,18354,05-505,3,Reserva de San David,fuera
+PISTAS.18561,18561,11-204,1,PARQUE DEL INDIO O DE LAS COMETAS,fuera
+PISTAS.18562,18562,11-204,3,PARQUE DEL INDIO O DE LAS COMETAS,fuera
+PISTAS.18563,18563,11-204,3,PARQUE DEL INDIO O DE LAS COMETAS,fuera
+PISTAS.18881,18881,19-566,1,Predio Rapistan,fuera

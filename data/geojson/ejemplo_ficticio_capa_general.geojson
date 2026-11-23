@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "name": "Ejemplo ficticio: capa general (equipamientos, espacios públicos y movilidad)",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EJEMPLO_FIC_001",
+        "tipo": "equipamiento",
+        "nombre": "Ejemplo ficticio: Centro comunitario (mapa)",
+        "categoria": "saneamiento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.22, 4.66]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EJEMPLO_FIC_002",
+        "tipo": "espacio_publico",
+        "nombre": "Ejemplo ficticio: Plaza principal (mapa)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-74.21, 4.66],
+            [-74.20, 4.66],
+            [-74.20, 4.67],
+            [-74.21, 4.67],
+            [-74.21, 4.66]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EJEMPLO_FIC_003",
+        "tipo": "movilidad",
+        "nombre": "Ejemplo ficticio: Ruta de ciclovía (mapa)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.21, 4.67],
+          [-74.20, 4.66],
+          [-74.21, 4.65]
+        ]
+      }
+    }
+  ]
+}

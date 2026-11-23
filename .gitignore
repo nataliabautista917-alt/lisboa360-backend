@@ -1,0 +1,12 @@
+# Archivos de Lisboa360 Backend
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+database/*.db
+database/*.db-journal
+database/*.sqlite
+database/*.sqlite3

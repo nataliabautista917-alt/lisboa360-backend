@@ -1,0 +1,1019 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "place_of_worship",
+        "categoria": "Religioso",
+        "amenity": "place_of_worship",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1215941,
+          4.7531011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia de Dios Ministerial",
+        "categoria": "Religioso",
+        "amenity": "place_of_worship",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.119404,
+          4.7445605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "COLEGIO DISTRITAL LA TOSCANA - SEDE A",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1135195,
+          4.7434103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "COLEGIO CENTRO PILOTO DE EDUCACIÓN",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.113389,
+          4.7410481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "COLEGIO DISTRITAL LISBOA - SEDE B",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1218974,
+          4.7436947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Salon de Los Testigos de Jehová",
+        "categoria": "Religioso",
+        "amenity": "place_of_worship",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121319,
+          4.7471393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia Adventista Roca Eterna",
+        "categoria": "Religioso",
+        "amenity": "place_of_worship",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "Calle 142C 149C-10",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1204437,
+          4.7506638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Asociación Il Nido del Gufo: Biblioteca , Ludoteca y Centro Cultural.",
+        "categoria": "Comunitario",
+        "amenity": "library",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "Carrera 154 135_22",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1248786,
+          4.7434718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "marketplace",
+        "categoria": "Comercio y servicios",
+        "amenity": "marketplace",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1247877,
+          4.7428531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "marketplace",
+        "categoria": "Comercio y servicios",
+        "amenity": "marketplace",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1250341,
+          4.7426344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Despacho Parroquial",
+        "categoria": "Religioso",
+        "amenity": "place_of_worship",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1248845,
+          4.7436604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Iglesia Beato Juan Bautista E",
+        "categoria": "Religioso",
+        "amenity": "place_of_worship",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1251467,
+          4.7435869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "school",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1121522,
+          4.7445183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Colegio Celestin Freinet - Sede nueva",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112765,
+          4.7447319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Colegio Celestin Freinet",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1143361,
+          4.7454715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Colegio Celestin Freinet",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1139882,
+          4.7450665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "IED Gerardo Molina",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1154064,
+          4.7486496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Colegio Arcadia Colombia",
+        "categoria": "Educacion",
+        "amenity": "school",
+        "leisure": null,
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1118894,
+          4.7393992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "D1",
+        "categoria": "Comercio y servicios",
+        "amenity": null,
+        "leisure": null,
+        "shop": "supermarket",
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1136304,
+          4.7406379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "VICENTE",
+        "categoria": "Comercio y servicios",
+        "amenity": null,
+        "leisure": null,
+        "shop": "supermarket",
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1246257,
+          4.7429379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "D1",
+        "categoria": "Comercio y servicios",
+        "amenity": null,
+        "leisure": null,
+        "shop": "supermarket",
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1286284,
+          4.7443027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1160766,
+          4.7441812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1147983,
+          4.7433933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Miramar",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1142224,
+          4.7413209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1144581,
+          4.7450263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1132235,
+          4.7446987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque La Toscana",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1152001,
+          4.7443698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1157902,
+          4.7431137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1125413,
+          4.7461472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1119097,
+          4.7464848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque de Berlin",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1171758,
+          4.747554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Santa Cecilia",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1281591,
+          4.7395159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1207514,
+          4.7462838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Miramar II",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1163109,
+          4.7389882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Paque de la Virgen",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121829,
+          4.751542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque de los Gavilanes",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1166573,
+          4.749749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Porticos",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": " 126",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1128303,
+          4.7389693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1179595,
+          4.7525555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque La Toscana",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1120047,
+          4.7431892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1128141,
+          4.7422634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1188434,
+          4.7484763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Reserva de Piedra Verde",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1115734,
+          4.7442747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Lisboa",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1214904,
+          4.743316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque PTAR Salitre",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1215988,
+          4.7317775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1172094,
+          4.744995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1174201,
+          4.7407193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1261772,
+          4.7386568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "park",
+        "categoria": "Espacio publico",
+        "amenity": null,
+        "leisure": "park",
+        "shop": null,
+        "healthcare": null,
+        "direccion": "",
+        "fuente": "OpenStreetMap (OSM)",
+        "licencia": "ODbL 1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1174913,
+          4.7481005
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pistas": {
+    "total": 429,
+    "dentro": 0,
+    "intersecta": 0,
+    "fuera": 429
+  },
+  "escenarios": {
+    "total": 57,
+    "dentro": 0,
+    "intersecta": 0,
+    "fuera": 57
+  },
+  "parques_con_infraestructura_en_lisboa": 0,
+  "metodo": "shapely geometry.within() / intersects() sobre el poligono oficial de Lisboa (EPSG:4326)",
+  "crs_lisboa": "EPSG:4326 (reproyectado en Fase 20, basado en WKT)"
+}

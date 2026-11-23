@@ -1,0 +1,430 @@
+﻿GmlID,OBJECTID,Ubicación_Referencia,Identificador_Dotación,Tipo,Nombre,Nombre_del_Parque,en_suba
+PISTAS.641,641,07-260,1,1,1,El Recreo,False
+PISTAS.642,642,07-035,2,3,4,Naranjos,False
+PISTAS.643,643,08-552,3,2,3,Las Margaritas (Gilma Jimenez),False
+PISTAS.644,644,08-552,4,5,2,Las Margaritas (Gilma Jimenez),False
+PISTAS.645,645,08-552,5,1,1,Las Margaritas (Gilma Jimenez),False
+PISTAS.646,646,08-552,6,1,6,Las Margaritas (Gilma Jimenez),False
+PISTAS.647,647,08-552,7,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.648,648,08-552,8,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.649,649,08-552,9,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.650,650,08-552,10,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.651,651,08-552,11,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.652,652,08-552,12,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.653,653,08-552,13,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.654,654,08-552,14,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.655,655,08-552,15,3,4,Las Margaritas (Gilma Jimenez),False
+PISTAS.656,656,08-552,16,3,1,Las Margaritas (Gilma Jimenez),False
+PISTAS.657,657,08-552,17,1,2,Las Margaritas (Gilma Jimenez),False
+PISTAS.658,658,04-075,18,3,4,Villa De Los Alpes,False
+PISTAS.659,659,04-075,19,1,5,Villa De Los Alpes,False
+PISTAS.660,660,07-163,20,1,7,Clarelandia,False
+PISTAS.661,661,07-163,21,1,6,Clarelandia,False
+PISTAS.662,662,07-163,22,1,5,Clarelandia,False
+PISTAS.663,663,15-036,23,1,7,Villa Mayor Cementerio Del Sur,False
+PISTAS.664,664,18-028,24,3,4,Bosque  San Carlos,False
+PISTAS.665,665,09-050,25,3,4,Canal Boyaca Modelia,False
+PISTAS.666,666,09-050,26,3,1,Canal Boyaca Modelia,False
+PISTAS.667,667,15-027,27,2,2,Ciudad Jardin,False
+PISTAS.668,668,19-346,28,3,4,Illimani (Paraiso),False
+PISTAS.669,669,07-273,29,1,5,Urbanizacion La Esperanza,False
+PISTAS.670,670,07-273,30,5,2,Urbanizacion La Esperanza,False
+PISTAS.671,671,07-273,31,3,4,Urbanizacion La Esperanza,False
+PISTAS.672,672,07-273,32,3,4,Urbanizacion La Esperanza,False
+PISTAS.673,673,07-273,33,3,4,Urbanizacion La Esperanza,False
+PISTAS.674,674,07-273,34,3,4,Urbanizacion La Esperanza,False
+PISTAS.675,675,07-165,35,1,5,Palestina,False
+PISTAS.676,676,07-165,36,1,1,Palestina,False
+PISTAS.677,677,13-089,37,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.678,678,13-089,38,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.679,679,13-089,39,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.680,680,13-089,40,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.681,681,13-089,41,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.682,682,13-089,42,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.683,683,13-089,43,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.684,684,13-089,44,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.685,685,13-089,45,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.686,686,13-089,46,3,4,Simon Bolivar ( Sector Central ),False
+PISTAS.687,687,07-274,47,3,4,Tibanica,False
+PISTAS.688,688,03-085,48,5,2,Tercer Milenio,False
+PISTAS.689,689,03-085,49,5,2,Tercer Milenio,False
+PISTAS.690,690,03-085,50,1,2,Tercer Milenio,False
+PISTAS.691,691,03-085,51,2,1,Tercer Milenio,False
+PISTAS.692,692,03-085,52,1,7,Tercer Milenio,False
+PISTAS.693,693,03-085,53,1,2,Tercer Milenio,False
+PISTAS.694,694,03-085,54,1,2,Tercer Milenio,False
+PISTAS.695,695,03-085,55,1,3,Tercer Milenio,False
+PISTAS.696,696,03-085,56,3,4,Tercer Milenio,False
+PISTAS.697,697,03-085,57,3,4,Tercer Milenio,False
+PISTAS.698,698,03-085,58,3,4,Tercer Milenio,False
+PISTAS.699,699,03-085,59,3,4,Tercer Milenio,False
+PISTAS.700,700,03-085,60,3,4,Tercer Milenio,False
+PISTAS.701,701,03-085,61,3,4,Tercer Milenio,False
+PISTAS.702,702,03-085,62,3,4,Tercer Milenio,False
+PISTAS.703,703,03-085,63,3,4,Tercer Milenio,False
+PISTAS.704,704,03-085,64,3,4,Tercer Milenio,False
+PISTAS.705,705,06-063,67,2,3,El Tunal,False
+PISTAS.706,706,06-063,68,1,1,El Tunal,False
+PISTAS.707,707,06-063,69,1,5,El Tunal,False
+PISTAS.708,708,06-063,70,1,6,El Tunal,False
+PISTAS.709,709,06-063,71,3,1,El Tunal,False
+PISTAS.710,710,06-063,72,5,2,El Tunal,False
+PISTAS.711,711,10-311,73,1,5,La Florida,False
+PISTAS.712,712,10-311,74,5,2,La Florida,False
+PISTAS.713,713,10-311,75,2,6,La Florida,False
+PISTAS.714,714,10-290,76,5,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.715,715,10-290,77,3,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.716,716,10-290,78,1,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.717,717,10-290,79,1,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.718,718,10-290,80,2,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.719,719,10-290,81,2,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.720,720,10-290,82,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.721,721,10-290,83,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.722,722,10-290,84,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.723,723,10-290,85,3,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.724,724,10-290,86,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.725,725,10-290,87,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.726,726,10-290,88,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.727,727,10-290,89,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.728,728,10-290,90,3,2,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.729,729,10-290,91,3,1,Simon Bolivar ( Sector Unidad Deportiva El Salitre ),False
+PISTAS.730,730,19-788,92,5,2,,False
+PISTAS.731,731,04-196,93,3,4,Deportivo Primero De Mayo,False
+PISTAS.732,732,04-196,94,1,6,Deportivo Primero De Mayo,False
+PISTAS.733,733,04-196,95,2,1,Deportivo Primero De Mayo,False
+PISTAS.734,734,04-196,96,1,7,Deportivo Primero De Mayo,False
+PISTAS.735,735,08-219,97,1,5,Timiza,False
+PISTAS.736,736,08-219,98,2,1,Timiza,False
+PISTAS.737,737,08-219,100,1,6,Timiza,False
+PISTAS.738,738,08-219,101,1,1,Timiza,False
+PISTAS.739,739,03-035,102,1,7,Parque Nacional  Enrique Olaya Herrera ,False
+PISTAS.740,740,03-035,103,1,5,Parque Nacional  Enrique Olaya Herrera ,False
+PISTAS.741,741,03-035,104,1,1,Parque Nacional  Enrique Olaya Herrera ,False
+PISTAS.742,742,04-127,105,5,2,San Cristobal,False
+PISTAS.743,743,12-092,106,3,4,Simon Bolivar ( Sector Parque De Los Novios ),False
+PISTAS.744,744,07-391,107,3,4,El Porvenir,False
+PISTAS.745,745,07-391,108,3,4,El Porvenir,False
+PISTAS.746,746,07-391,109,1,6,El Porvenir,False
+PISTAS.747,747,07-391,110,1,5,El Porvenir,False
+PISTAS.748,748,07-391,111,3,4,El Porvenir,False
+PISTAS.749,749,12-091,112,1,7,Simon Bolivar ( Sector Parque Deportivo El Salitre ),False
+PISTAS.750,750,12-091,113,1,2,Simon Bolivar ( Sector Parque Deportivo El Salitre ),False
+PISTAS.751,751,12-091,114,1,3,Simon Bolivar ( Sector Parque Deportivo El Salitre ),False
+PISTAS.752,752,12-091,115,1,1,Simon Bolivar ( Sector Parque Deportivo El Salitre ),False
+PISTAS.753,753,12-091,116,3,4,Simon Bolivar ( Sector Parque Deportivo El Salitre ),False
+PISTAS.754,754,05-086,117,2,2,Famaco,False
+PISTAS.755,755,07-164,118,1,5,Parque Del Rio (San Jose De Maryland),False
+PISTAS.756,756,08-219,119,3,4,Timiza,False
+PISTAS.757,757,13-089,120,2,5,Simon Bolivar ( Sector Central ),False
+PISTAS.758,758,15-027,121,1,7,Ciudad Jardin,False
+PISTAS.759,759,15-027,122,3,4,Ciudad Jardin,False
+PISTAS.760,760,15-036,123,3,4,Villa Mayor Cementerio Del Sur,False
+PISTAS.761,761,08-219,124,3,1,Timiza,False
+PISTAS.762,762,08-219,99,1,1,Timiza,False
+PISTAS.763,763,12-093,2,5,1,La Estacion,False
+PISTAS.764,764,11-212,3,1,6,Tibabuyes,True
+PISTAS.765,765,10-171,4,3,4,Parque Juan Amarillo,False
+PISTAS.766,766,13-038,5,1,5,Nicolas De Federman 3,False
+PISTAS.767,767,13-038,6,1,5,Nicolas De Federman 3,False
+PISTAS.768,768,11-368,8,5,2,Fontanar Del Rio,True
+PISTAS.769,769,11-368,9,5,2,Fontanar Del Rio,True
+PISTAS.770,770,11-368,10,5,1,Fontanar Del Rio,True
+PISTAS.771,771,11-368,11,1,3,Fontanar Del Rio,True
+PISTAS.772,772,11-368,12,3,4,Fontanar Del Rio,True
+PISTAS.773,773,01-075,13,1,6,Alta Blanca,False
+PISTAS.774,774,01-075,14,1,7,Alta Blanca,False
+PISTAS.775,775,14-009,15,1,5,Santa Isabel,False
+PISTAS.776,776,10-234,16,1,2,San Andres,False
+PISTAS.777,777,10-234,17,1,3,San Andres,False
+PISTAS.778,778,10-234,18,1,5,San Andres,False
+PISTAS.779,779,10-234,19,2,1,San Andres,False
+PISTAS.780,780,10-234,20,1,5,San Andres,False
+PISTAS.781,781,10-234,21,3,4,San Andres,False
+PISTAS.782,782,01-023,22,3,1,Servita,False
+PISTAS.785,785,10-102,25,5,2,Villas De Granada,False
+PISTAS.787,787,12-091,27,2,3,Simon Bolivar ( Sector Parque Deportivo El Salitre ),False
+PISTAS.788,788,01-023,22,3,2,Servita,False
+PISTAS.789,789,18-207,7,5,2,Parque Estadio Olaya Herrera,False
+PISTAS.790,790,16-112,1,1,5,Ciudad Montes,False
+PISTAS.791,791,08-791,3,3,4,Urb San Ignacio Parque 1 Zonal,False
+PISTAS.792,792,08-791,4,1,6,Urb San Ignacio Parque 1 Zonal,False
+PISTAS.793,793,08-791,5,1,7,Urb San Ignacio Parque 1 Zonal,False
+PISTAS.794,794,08-791,6,1,3,Urb San Ignacio Parque 1 Zonal,False
+PISTAS.795,795,08-144,7,5,2,Bellavista-Dindalito,False
+PISTAS.796,796,14-030,8,1,5,Eduardo Santos,False
+PISTAS.797,797,14-030,9,1,1,Eduardo Santos,False
+PISTAS.798,798,19-231,12,1,5,Urbanizacion La Estancia,False
+PISTAS.799,799,19-231,13,1,5,Urbanizacion La Estancia,False
+PISTAS.800,800,19-231,14,3,4,Urbanizacion La Estancia,False
+PISTAS.801,801,19-348,15,1,1,El Taller ( El Ensue¤o ),False
+PISTAS.802,802,05-002,16,3,4,La Aurora Ii,False
+PISTAS.803,803,09-111,17,1,5,Sauzalito,False
+PISTAS.804,804,09-111,18,2,1,Sauzalito,False
+PISTAS.805,805,09-111,19,3,4,Sauzalito,False
+PISTAS.806,806,09-111,20,1,5,Sauzalito,False
+PISTAS.807,807,05-004,21,1,5,La Andrea,False
+PISTAS.808,808,05-004,22,1,5,La Andrea,False
+PISTAS.809,809,08-241,23,1,7,Cayetano Ca¤izares,False
+PISTAS.810,810,08-241,24,2,1,Cayetano Ca¤izares,False
+PISTAS.811,811,08-241,25,2,1,Cayetano Ca¤izares,False
+PISTAS.812,812,08-241,26,1,6,Cayetano Ca¤izares,False
+PISTAS.813,813,18-162,27,1,5,Los Molinos Ii,False
+PISTAS.814,814,17-008,28,5,2,La Concordia,False
+PISTAS.815,815,17-008,29,5,2,La Concordia,False
+PISTAS.816,816,08-200,30,1,1,Castilla,False
+PISTAS.817,817,15-040,31,1,5,La Fragua,False
+PISTAS.818,818,15-040,32,1,1,La Fragua,False
+PISTAS.819,819,08-355,33,1,5,La Amistad,False
+PISTAS.820,820,08-355,34,3,4,La Amistad,False
+PISTAS.821,821,09-104,35,5,2,Atahualpa,False
+PISTAS.822,822,09-104,36,1,6,Atahualpa,False
+PISTAS.823,823,09-104,37,1,5,Atahualpa,False
+PISTAS.824,824,09-104,38,3,1,Atahualpa,False
+PISTAS.825,825,12-015,39,1,5,Alcazares,False
+PISTAS.826,826,08-212,40,3,4,La Igualdad,False
+PISTAS.827,827,11-205,41,1,7,La Gaitana,True
+PISTAS.828,828,11-205,42,1,3,La Gaitana,True
+PISTAS.829,829,11-205,43,1,5,La Gaitana,True
+PISTAS.830,830,08-066,44,1,6,"Marsella Sector Norte I Etapa,Pinos De Marsella",False
+PISTAS.831,831,18-205,45,1,5,Quiroga,False
+PISTAS.832,832,05-003,46,1,5,Valles De Cafam,False
+PISTAS.833,833,05-003,47,1,3,Valles De Cafam,False
+PISTAS.834,834,18-031,470,3,4,Diana Turbay,False
+PISTAS.835,835,16-204,10,1,6,El Jazmin,False
+PISTAS.836,836,16-204,11,1,7,El Jazmin,False
+PISTAS.837,837,16-112,2,3,4,Ciudad Montes,False
+PISTAS.838,838,16-112,2,3,4,Ciudad Montes,False
+PISTAS.962,962,19-348,15,1,7,El Taller ( El Ensue¤o ),False
+PISTAS.1281,1281,06-063,198,1,7,El Tunal,False
+PISTAS.1282,1282,06-063,226,3,4,El Tunal,False
+PISTAS.1922,1922,08-200,30,1,3,Castilla,False
+PISTAS.2242,2242,11-368,11,1,7,Fontanar Del Rio,True
+PISTAS.2244,2244,11-368,11,1,3,Fontanar Del Rio,True
+PISTAS.2247,2247,11-368,11,1,2,Fontanar Del Rio,True
+PISTAS.2248,2248,11-368,11,1,2,Fontanar Del Rio,True
+PISTAS.5122,5122,11-1324,4,3,4,Urbanizacion Villas De Covaria,True
+PISTAS.5233,5233,11-659,1,1,5,Urbanizacion Fontanar Del Rio B Primera Etapa,True
+PISTAS.5234,5234,11-030,2,3,4,Urbanizacion Costa Azul I Y Ii Etapa,True
+PISTAS.5236,5236,11-200,4,3,4,Urbanizacion El Refugio De Suba,True
+PISTAS.5237,5237,11-158,5,1,1,Urbanizacion La Trinitaria,True
+PISTAS.5240,5240,10-583,8,5,2,"Urbanizacion Ciudadela Colsubsidio Sectores Ii, Iii, Iv, V",False
+PISTAS.5242,5242,10-177,10,3,4,Ciudadela Colsubsidio,False
+PISTAS.5243,5243,10-177,11,3,4,Ciudadela Colsubsidio,False
+PISTAS.5762,5762,10-068,2,4,1,Urbanizacion Floridablanca Ii Sector 1 Etapa,False
+PISTAS.6081,6081,10-582,1,1,1,"Urbanizacion Ciudadela Colsubsidio Sectores Ii, Iii, Iv, V",False
+PISTAS.6083,6083,09-130,1,4,1,Bohios De Hunza,False
+PISTAS.6084,6084,09-309,2,4,1,San Juan De Dios,False
+PISTAS.6085,6085,09-309,3,4,1,San Juan De Dios,False
+PISTAS.6086,6086,09-333,4,4,1,Urb La Felicidad Parque 13,False
+PISTAS.6087,6087,09-333,5,4,1,Urb La Felicidad Parque 13,False
+PISTAS.6401,6401,11-246,6,1,1,Urbanizacion La Sabana De Tibabuyes,True
+PISTAS.6402,6402,11-178,7,3,1,Urbanizacion Potosi Ii Sector,True
+PISTAS.6721,6721,11-291,3,1,5,Aures Ii,True
+PISTAS.6722,6722,10-051,6,5,2,"Urbanizacion Bolivia Occidental Iv,V Y Vi Etapas",False
+PISTAS.6723,6723,10-051,7,2,3,"Urbanizacion Bolivia Occidental Iv,V Y Vi Etapas",False
+PISTAS.6724,6724,10-051,9,2,5,"Urbanizacion Bolivia Occidental Iv,V Y Vi Etapas",False
+PISTAS.6725,6725,10-173,12,1,5,Urbanizacion Ciudad Bachue Ii Segunda Etapa,False
+PISTAS.7361,7361,10-570,1,4,1,Carrefour Calle 80,False
+PISTAS.7362,7362,10-570,2,4,1,Carrefour Calle 80,False
+PISTAS.7363,7363,10-570,3,4,1,Carrefour Calle 80,False
+PISTAS.7364,7364,10-570,4,4,1,Carrefour Calle 80,False
+PISTAS.7365,7365,10-570,5,4,1,Carrefour Calle 80,False
+PISTAS.7681,7681,10-025,1,1,1,Urbanizacion San Jorge Norte,False
+PISTAS.7682,7682,10-126,3,1,1,"Urbanizacion Villa Amalia, Proyecto Protecho",False
+PISTAS.7683,7683,10-165,4,4,1,Urbanizacion La Bonanza I Sector,False
+PISTAS.7793,7793,11-669,1,4,1,Urbanizacion  Vilanova,True
+PISTAS.9281,9281,09-013,1,4,1,Villemar,False
+PISTAS.9282,9282,08-711,2,4,1,Villa Alsacia Lote 1,False
+PISTAS.9283,9283,08-706,3,4,1,Villa Alsacia Lote 1,False
+PISTAS.9284,9284,08-097,4,1,1,Vision De Colombia,False
+PISTAS.9285,9285,08-094,5,4,1,Desarrollo Andalucia,False
+PISTAS.9286,9286,08-406,6,4,1,Avenida Primero De Mayo - La Llanura,False
+PISTAS.9287,9287,09-311,7,1,1,	Urb La Esperanza Etapa A (Villa Zamora,False
+PISTAS.9288,9288,08-036,8,1,1,Catania,False
+PISTAS.9601,9601,08-290,9,4,1,Santa Catalina,False
+PISTAS.9602,9602,08-533,10,4,1,Las Luces Y Villa Rica,False
+PISTAS.9603,9603,07-457,11,5,2,Urbanizacion Ciudadela El Recreo,False
+PISTAS.9604,9604,07-457,12,5,2,Urbanizacion Ciudadela El Recreo,False
+PISTAS.9605,9605,07-457,13,5,2,Urbanizacion Ciudadela El Recreo,False
+PISTAS.9606,9606,08-249,3,4,1,El Carmelo Favidi Sectores A Y B,False
+PISTAS.9607,9607,08-249,4,1,1,El Carmelo Favidi Sectores A Y B,False
+PISTAS.9608,9608,08-160,6,1,5,El Parque Etapa I Y Ii,False
+PISTAS.9609,9609,08-160,7,1,5,El Parque Etapa I Y Ii,False
+PISTAS.9610,9610,08-042,8,4,1,Nuevas Delicias,False
+PISTAS.9611,9611,08-233,1,1,5,Desarrollo Villa Andres Y Desarrollo Santa Monica,False
+PISTAS.9921,9921,10-195,1,4,1,Desarrollo Linterama,False
+PISTAS.9922,9922,10-312,2,1,1,San JoseNorte,False
+PISTAS.9923,9923,08-105,3,1,5,Llano Grande,False
+PISTAS.9925,9925,07-091,5,1,1,Urbanizacion La Sultana Del Sur,False
+PISTAS.9926,9926,07-267,6,5,2,Desarrollo La Concepcion,False
+PISTAS.9927,9927,07-041,7,3,4,Brasil (Villa De Los Comuneros),False
+PISTAS.9928,9928,19-035,8,5,2,Urbanizacion Madelana Iii Y Iv Sector,False
+PISTAS.9929,9929,19-750,9,3,1,Urb Balmoral Cesion Guadalupe,False
+PISTAS.9930,9930,19-750,10,3,1,Urb Balmoral Cesion Guadalupe,False
+PISTAS.9931,9931,19-750,11,3,1,Urb Balmoral Cesion Guadalupe,False
+PISTAS.9932,9932,19-104,12,1,1,Urbanizacion La Alameda,False
+PISTAS.9933,9933,19-537,13,1,1,Desarrollo El Tesoro,False
+PISTAS.9934,9934,18-070,14,1,1,Urbanizacion Las Lomas 2 Sector,False
+PISTAS.9935,9935,07-083,15,1,1,Desarrollo Carlos Alban Holguin,False
+PISTAS.10241,10241,08-273,1,4,1,Las Americas Sector Avenida Galan,False
+PISTAS.10242,10242,08-385,2,1,1,Conjunto De Vivienda Supermanzana 9-A Ciudad Kenendy-Unidad Residencial Ayacucho,False
+PISTAS.10244,10244,08-072,4,1,1,Urbanizacion La Unidad,False
+PISTAS.10245,10245,08-072,5,1,1,Urbanizacion La Unidad,False
+PISTAS.10246,10246,07-111,6,4,1,Desarrollo San Luis,False
+PISTAS.10247,10247,07-071,7,3,4,Desarrollo  Piamonte  I,False
+PISTAS.10353,10353,08-799,1,1,5,Urb VillaMejia Parque 2,False
+PISTAS.10355,10355,08-343,3,1,5,Ciudad Kennedy Supermanzana 8,False
+PISTAS.10356,10356,08-017,4,1,5,Ciudad Kennedy Oriental Supermanzana 16,False
+PISTAS.10357,10357,08-194,5,1,5,Kennedy Norte Supermanzana  11,False
+PISTAS.10358,10358,08-697,6,1,1,Villa Andrea,False
+PISTAS.10359,10359,19-010,8,1,5,Desarrollo Arborizadora Baja,False
+PISTAS.10360,10360,19-010,9,1,1,Desarrollo Arborizadora Baja,False
+PISTAS.10361,10361,07-026,10,1,1,"Desarrollo El Rincon De Bosa, Recuerdo 4A,5,6,7",False
+PISTAS.10882,10882,07-050,1,4,1,Urbanizacion Jose Maria Carbonell I Y Ii Etapas,False
+PISTAS.10883,10883,19-015,2,4,1,Desarrollo Rincon De Galicia,False
+PISTAS.10884,10884,19-043,3,4,1,Urbanizacion Candelaria La Nueva Primer Sector,False
+PISTAS.10885,10885,06-065,4,3,4,Urbanizacion El Tunal Ii,False
+PISTAS.10886,10886,06-065,5,3,4,Urbanizacion El Tunal Ii,False
+PISTAS.10887,10887,18-059,6,4,1,"Urbanizacion Quiroga I, Ii, Iii Etapa",False
+PISTAS.10888,10888,08-172,7,4,1,Urbanizacion Arbolete,False
+PISTAS.10889,10889,07-011,1,1,1,"Urbanizacion La Amistad, Desarrollo San Pablo Ii Sector",False
+PISTAS.11201,11201,10-538,1,2,4,Urbanizacion Ciudadela Colsubsidio Sector Iv,False
+PISTAS.11202,11202,10-005,2,1,1,San Marcos,False
+PISTAS.11203,11203,10-176,3,4,1,Urbanizacion Villas Del Madrigal - Molino Del Viento,False
+PISTAS.11204,11204,13-134,4,4,1,"Urbanizacion Ciudad Salitre Cuarta Etapa Sector 11 Supermanzanas Sm 11-1, Sm 11-2, Sm 11-4, Sm 11-5, Sm 11-7, Sm 11-8",False
+PISTAS.11313,11313,07-320,1,1,1,Urbanizacion Santiago De Atalayas,False
+PISTAS.11314,11314,10-186,2,4,1,Urbanizacion Los Angeles Primer Sector,False
+PISTAS.11521,11521,08-620,1,4,1,Santa Catalina I Y Ii Sector,False
+PISTAS.11522,11522,10-812,2,1,1,Los Cerezos,False
+PISTAS.11523,11523,10-812,3,1,1,Los Cerezos,False
+PISTAS.11524,11524,10-023,4,1,1,"Urbanizacion Los Monjes , Urbanizacion Santa Cecilia",False
+PISTAS.11841,11841,08-301,1,4,1,Catalina-Villa Rica,False
+PISTAS.11842,11842,08-368,2,4,1,Ciudad Kennedy Supermanzana 6A,False
+PISTAS.11843,11843,08-023,3,1,5,El Parque,False
+PISTAS.11844,11844,07-089,4,4,1,Desarrollo Brasilia I Sector,False
+PISTAS.11845,11845,07-081,5,1,1,Desarrollo Laureles Iii Sector,False
+PISTAS.11846,11846,07-085,6,4,1,Humberto Valencia,False
+PISTAS.11847,11847,07-085,7,4,1,Humberto Valencia,False
+PISTAS.11848,11848,07-085,8,4,1,Humberto Valencia,False
+PISTAS.11849,11849,07-085,9,4,1,Humberto Valencia,False
+PISTAS.11850,11850,07-049,10,4,1,"Desarrollo  Gran Colombiano Ii Sector, Naranjos",False
+PISTAS.11851,11851,08-082,11,1,1,"Bertha Hernandez De Ospina, Acip, Catalina Y Calalina Ii Sector",False
+PISTAS.11852,11852,11-1182,12,5,2,Urb Parque Central Pontevedra Etapa 1,True
+PISTAS.11853,11853,18-010,13,3,1,Barrio Claret,False
+PISTAS.11855,11855,11-162,15,3,1,Urbanizacion Victoria Norte,True
+PISTAS.12161,12161,16-076,1,3,1,Santa Matilde I Sector,False
+PISTAS.12162,12162,16-076,2,1,5,Santa Matilde I Sector,False
+PISTAS.12163,12163,16-114,3,1,1,Villa Del Rosario,False
+PISTAS.12164,12164,16-119,4,1,1,La Colonia Oriental,False
+PISTAS.12165,12165,13-187,5,5,2,Parque_Central_Salitre_Ces,False
+PISTAS.13441,13441,01-031,1,5,2,Nueva Urbanizacion El Cedrito,False
+PISTAS.13442,13442,15-017,2,3,4,Urbanizacion San Antonio De Padua,False
+PISTAS.13443,13443,15-017,3,3,4,Urbanizacion San Antonio De Padua,False
+PISTAS.13444,13444,15-002,4,3,4,Urbanizacion La Fraguita,False
+PISTAS.13445,13445,15-028,5,5,2,Desarrollo Policarpa Salavarrieta,False
+PISTAS.13446,13446,04-104,6,1,5,Altamira,False
+PISTAS.13447,13447,04-085,8,4,1,Urbanizacion La Herradura,False
+PISTAS.13761,13761,04-106,1,5,2,Desarrollo El Futuro,False
+PISTAS.13762,13762,04-106,2,5,2,Desarrollo El Futuro,False
+PISTAS.13763,13763,04-106,3,5,2,Desarrollo El Futuro,False
+PISTAS.13764,13764,04-106,4,5,2,Desarrollo El Futuro,False
+PISTAS.13765,13765,04-106,5,5,2,Desarrollo El Futuro,False
+PISTAS.13766,13766,04-106,6,5,2,Desarrollo El Futuro,False
+PISTAS.13767,13767,04-118,7,5,2,Desarrollo El Pinar  ( Republica Del Canada Ii Sector),False
+PISTAS.13768,13768,04-046,8,5,2,Urbanizacion Continental,False
+PISTAS.13769,13769,16-068,9,1,1,Los Sauces (Antes San Jorge Central Iii Sector),False
+PISTAS.13770,13770,08-211,10,1,1,Urbanizacion Techo,False
+PISTAS.13771,13771,16-036,11,4,1,La Francia,False
+PISTAS.13772,13772,16-036,12,4,1,La Francia,False
+PISTAS.13773,13773,05-058,13,4,1,Urbanizacion Marichuela I Etapa,False
+PISTAS.14081,14081,11-084,1,5,2,Urbanizacion Nueva Tibabuyes Etapa I,True
+PISTAS.14082,14082,11-084,2,2,4,Urbanizacion Nueva Tibabuyes Etapa I,True
+PISTAS.14083,14083,04-251,3,1,1,Urbanizacion Villa Del Cerro,False
+PISTAS.14084,14084,05-019,4,1,6,Chuniza I,False
+PISTAS.14085,14085,04-109,5,5,2,Urbanizacion La Joyita,False
+PISTAS.14086,14086,05-097,6,1,1,Urbanizacion El Libano,False
+PISTAS.14087,14087,05-097,7,3,4,Urbanizacion El Libano,False
+PISTAS.14401,14401,15-021,1,4,1,Santa Isabel,False
+PISTAS.14402,14402,11-031,2,3,1,Urbanizacion Costa Azul I Y Ii Etapa,True
+PISTAS.14403,14403,16-070,3,4,1,La Camelia Norte,False
+PISTAS.14721,14721,09-161,1,3,4,"Urbanizacion Ciudad Salitre Tercera Etapa De Desarrollo Sector 1 Supermanzanas Sm1-5, Sm1-6, Sm1-8, Sm1-9",False
+PISTAS.14722,14722,11-277,2,1,1,Urbanizacion  Lago De Suba,True
+PISTAS.14723,14723,11-277,3,1,1,Urbanizacion  Lago De Suba,True
+PISTAS.15041,15041,16-004,2,5,2,Industrial Puente Aranda,False
+PISTAS.15042,15042,16-004,3,5,2,Industrial Puente Aranda,False
+PISTAS.15043,15043,08-771,6,5,2,Urb Las Margaritas,False
+PISTAS.15044,15044,08-202,7,1,5,Urbanizacion Carimagua Primer Sector,False
+PISTAS.15045,15045,11-573,8,5,2,Urbanizacion Agrupacion De Vivienda El Rincon De Iberia,True
+PISTAS.15046,15046,08-040,9,1,1,Carvajal,False
+PISTAS.15047,15047,01-079,10,5,1,Urbanizacion El ToberÂ¡N,False
+PISTAS.15048,15048,01-079,11,5,2,Urbanizacion El ToberÂ¡N,False
+PISTAS.15049,15049,18-011,14,1,1,Urbanizacion Villa Mayor (Lote A  Sectores 4-5),False
+PISTAS.15050,15050,06-033,15,4,1,Urbanizacion El Tunal,False
+PISTAS.15153,15153,08-197,1,1,6,Floralia I Sector,False
+PISTAS.15154,15154,08-197,2,4,1,Floralia I Sector,False
+PISTAS.15155,15155,16-147,3,1,1,Autopista Muzu,False
+PISTAS.15361,15361,09-252,1,4,1,Urbanizacion Cundinamarca,False
+PISTAS.15362,15362,08-170,2,1,5,Ciudad Kennedy Oriental Supermanzana 6,False
+PISTAS.15363,15363,04-036,3,4,1,Altos Del Poblado,False
+PISTAS.15364,15364,05-057,4,1,1,La Aurora,False
+PISTAS.15681,15681,16-150,2,4,1,Torremolinos Ii Sector,False
+PISTAS.15682,15682,13-097,3,1,1,"Urbanizacion Ciudad Salitre Sector Iii Sm Iii-3,   Sm Iii-4, Sm Iii-5, Sm Iii-6, Sm Iii-7 Y Sm Iii-8",False
+PISTAS.16001,16001,07-020,1,5,2,Desarrollo Naranjos - El Retazo,False
+PISTAS.16002,16002,08-656,3,3,4,Ciudad Techo Ii,False
+PISTAS.16003,16003,12-117,5,4,1,Simon Bolivar ( Sector Salitre Magico ),False
+PISTAS.16225,16225,08-065,1,1,1,Villa Alsacia,False
+PISTAS.16641,16641,16-220,10,1,1,Urbanizacion San Eusebio,False
+PISTAS.16761,16761,08-710,1,3,4,Villa Alsacia Lote 1,False
+PISTAS.16762,16762,08-710,2,3,4,Villa Alsacia Lote 1,False
+PISTAS.16763,16763,01-096,3,2,2,Urbanizacion Contador,False
+PISTAS.16764,16764,12-109,4,4,1,Jorge Eliecer Gaitan,False
+PISTAS.16765,16765,11-742,5,5,2,Conjunto Residencial Arboreto,True
+PISTAS.16766,16766,09-200,1,3,1,"Urbanizacion Ciudad Hayuelos Etapas Ii,Iii, Iv Y V",False
+PISTAS.16767,16767,19-012,2,1,5,Urbanizacion La Coru¤a,False
+PISTAS.16768,16768,05-505,3,1,6,Reserva de San David,False
+PISTAS.16961,16961,08-806,1,1,1,Urb Villa Mariana,False
+PISTAS.16962,16962,05-149,2,1,1,El Triangulo,False
+PISTAS.16963,16963,09-016,3,3,4,Modelia Sector A,False
+PISTAS.16964,16964,11-677,4,5,2,Las Flores,True
+PISTAS.16965,16965,11-677,5,3,4,Las Flores,True
+PISTAS.16966,16966,11-677,6,3,4,Las Flores,True
+PISTAS.16967,16967,11-677,7,3,4,Las Flores,True
+PISTAS.17281,17281,18-019,16,1,1,Urbanizacion  Quiroga 8 Etapa,False
+PISTAS.17282,17282,18-019,17,1,1,Urbanizacion  Quiroga 8 Etapa,False
+PISTAS.17283,17283,18-019,18,2,3,Urbanizacion  Quiroga 8 Etapa,False
+PISTAS.17284,17284,18-029,19,1,1,Urbanizacion Avenida Decima San Isidro Sociego Sur,False
+PISTAS.17285,17285,18-035,20,5,2,Desarrollo Palermo Sur,False
+PISTAS.17393,17393,18-429,1,1,1,San Jose,False
+PISTAS.17394,17394,05-042,2,5,2,"Urbanizacion Miravalle I, Ii Y Iii Etapas,  El Cortijo, San Juan Bautista Y  San Luis",False
+PISTAS.17395,17395,05-042,3,1,6,"Urbanizacion Miravalle I, Ii Y Iii Etapas,  El Cortijo, San Juan Bautista Y  San Luis",False
+PISTAS.17396,17396,13-192,4,5,2,El Campin,False
+PISTAS.17397,17397,04-387,5,3,1,Ciudad Marbella Sector I - Caminos De San Cristobal,False
+PISTAS.17398,17398,19-121,6,3,1,Maria Cano,False
+PISTAS.17399,17399,15-076,7,3,1,Policarpa,False
+PISTAS.17601,17601,05-476,1,5,2,Ciudad Nuevo Milenio I Etapa I,False
+PISTAS.17602,17602,05-476,2,1,6,Ciudad Nuevo Milenio I Etapa I,False
+PISTAS.17603,17603,16-166,5,5,2,Philips Desarrollo Industrial,False
+PISTAS.17604,17604,06-099,6,1,5,Prm El Redentor,False
+PISTAS.17605,17605,06-099,7,3,4,Prm El Redentor,False
+PISTAS.17606,17606,06-099,8,5,2,Prm El Redentor,False
+PISTAS.17607,17607,19-133,9,4,1,Urbanizacion Madelena I Y Ii Sector,False
+PISTAS.17608,17608,19-133,10,4,1,Urbanizacion Madelena I Y Ii Sector,False
+PISTAS.17609,17609,12-090,11,3,1,Simon Bolivar (Sector Centro De Alto Rendimiento ),False
+PISTAS.17610,17610,12-090,12,3,2,Simon Bolivar (Sector Centro De Alto Rendimiento ),False
+PISTAS.17713,17713,19-451,11,1,1,Urbanizacion El EnsueÂ¥O,False
+PISTAS.17714,17714,19-360,12,1,1,Desarrollo  Sierra  Morena,False
+PISTAS.17715,17715,19-146,13,1,1,Urbanizacion Protecho Bogota Ii,False
+PISTAS.17716,17716,19-146,14,1,1,Urbanizacion Protecho Bogota Ii,False
+PISTAS.17718,17718,03-010,16,5,2,Desarrollo Lourdes,False
+PISTAS.17921,17921,12-035,2,4,1,Urbanizacion Metropolis,False
+PISTAS.17922,17922,09-201,3,1,1,Urbanizacion CapellanÂ¡A Ii Sector,False
+PISTAS.18241,18241,03-118,11133,4,1,Desarrollo Los Laches,False
+PISTAS.18242,18242,03-118,11134,4,1,Desarrollo Los Laches,False
+PISTAS.18243,18243,04-409,20684,4,1,La Coru¤a Del Sur,False
+PISTAS.18244,18244,19-528,21002,5,2,Desarrollo Arabia,False
+PISTAS.18245,18245,08-769,12,1,5,Urb Caracol,False
+PISTAS.18354,18354,05-505,3,3,1,Reserva de San David,False
+PISTAS.18561,18561,11-204,23,1,2,PARQUE DEL INDIO O DE LAS COMETAS,True
+PISTAS.18562,18562,11-204,24,3,1,PARQUE DEL INDIO O DE LAS COMETAS,True
+PISTAS.18563,18563,11-204,26,3,4,PARQUE DEL INDIO O DE LAS COMETAS,True
+PISTAS.18881,18881,19-566,,1,5,Predio Rapistan,False

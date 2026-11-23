@@ -1,0 +1,19 @@
+{
+  "pistas_total": 429,
+  "pistas_intersectan_lisboa": 0,
+  "pistas_dentro_lisboa": 0,
+  "pistas_parcial_lisboa": 0,
+  "pistas_fuera_lisboa": 429,
+  "escenarios_total": 57,
+  "escenarios_intersectan_lisboa": 0,
+  "escenarios_dentro_lisboa": 0,
+  "escenarios_parcial_lisboa": 0,
+  "escenarios_fuera_lisboa": 57,
+  "pistas_en_suba": 38,
+  "escenarios_en_suba": 4,
+  "pct_pistas_lisboa_vs_suba": 0.0,
+  "pct_escenarios_lisboa_vs_suba": 0.0,
+  "parques_con_pistas_lisboa": 0,
+  "parques_con_escenarios_lisboa": 0,
+  "parques_con_ambos_lisboa": 0
+}

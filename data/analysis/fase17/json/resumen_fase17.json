@@ -1,0 +1,153 @@
+{
+  "pistas_total": 429,
+  "pistas_en_suba": 38,
+  "pistas_fuera": 391,
+  "escenarios_total": 57,
+  "escenarios_en_suba": 4,
+  "escenarios_fuera": 53,
+  "parques_con_pistas": 230,
+  "parques_con_escenarios": 41,
+  "parques_con_ambos": 26,
+  "escenarios_que_intersectan_pista": 4,
+  "pistas_que_intersectan_escenario": 7,
+  "top5_parques_pistas": [
+    {
+      "Nombre_del_Parque": "Tercer Milenio",
+      "n_pistas": 17
+    },
+    {
+      "Nombre_del_Parque": "Simon Bolivar ( Sector Unidad Deportiva El Salitre )",
+      "n_pistas": 16
+    },
+    {
+      "Nombre_del_Parque": "Las Margaritas (Gilma Jimenez)",
+      "n_pistas": 15
+    },
+    {
+      "Nombre_del_Parque": "Simon Bolivar ( Sector Central )",
+      "n_pistas": 11
+    },
+    {
+      "Nombre_del_Parque": "Fontanar Del Rio",
+      "n_pistas": 9
+    }
+  ],
+  "top5_parques_escenarios": [
+    {
+      "Nombre_del_Parque": "Simon Bolivar ( Sector Unidad Deportiva El Salitre )",
+      "n_escenarios": 9
+    },
+    {
+      "Nombre_del_Parque": "El Country",
+      "n_escenarios": 2
+    },
+    {
+      "Nombre_del_Parque": "Cayetano Ca¤izares",
+      "n_escenarios": 2
+    },
+    {
+      "Nombre_del_Parque": "Simon Bolivar ( Sector Parque Deportivo El Salitre )",
+      "n_escenarios": 2
+    },
+    {
+      "Nombre_del_Parque": "El Tunal",
+      "n_escenarios": 2
+    }
+  ],
+  "top_parques_en_suba_pistas": [
+    {
+      "Nombre_del_Parque": "Fontanar Del Rio",
+      "n_pistas": 9
+    },
+    {
+      "Nombre_del_Parque": "Las Flores",
+      "n_pistas": 4
+    },
+    {
+      "Nombre_del_Parque": "PARQUE DEL INDIO O DE LAS COMETAS",
+      "n_pistas": 3
+    },
+    {
+      "Nombre_del_Parque": "La Gaitana",
+      "n_pistas": 3
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion Nueva Tibabuyes Etapa I",
+      "n_pistas": 2
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion  Lago De Suba",
+      "n_pistas": 2
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion Costa Azul I Y Ii Etapa",
+      "n_pistas": 2
+    },
+    {
+      "Nombre_del_Parque": "Conjunto Residencial Arboreto",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Aures Ii",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urb Parque Central Pontevedra Etapa 1",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion  Vilanova",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Tibabuyes",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion Agrupacion De Vivienda El Rincon De Iberia",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion El Refugio De Suba",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion La Sabana De Tibabuyes",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion Fontanar Del Rio B Primera Etapa",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion La Trinitaria",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion Potosi Ii Sector",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion Victoria Norte",
+      "n_pistas": 1
+    },
+    {
+      "Nombre_del_Parque": "Urbanizacion Villas De Covaria",
+      "n_pistas": 1
+    }
+  ],
+  "top_parques_en_suba_escenarios": [
+    {
+      "Nombre_del_Parque": "PARQUE DEL INDIO O DE LAS COMETAS",
+      "n_escenarios": 2
+    },
+    {
+      "Nombre_del_Parque": "Fontanar Del Rio",
+      "n_escenarios": 1
+    },
+    {
+      "Nombre_del_Parque": "Tibabuyes",
+      "n_escenarios": 1
+    }
+  ]
+}
